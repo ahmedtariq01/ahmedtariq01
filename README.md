@@ -108,6 +108,10 @@
 <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p>
 
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/AhmedTariq01/count.svg" alt ="Loading">
+
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
