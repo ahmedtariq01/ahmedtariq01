@@ -26,19 +26,19 @@
     </td>
 </tr>
 <tr>
-    <td align='center' width="190" height= "90">
+    <td align='center' width="190" height= "80">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
-    <td align='center' width="190" height= "90">
+    <td align='center' width="190" height= "80">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
-    <td align='center' width="190" height= "90">
+    <td align='center' width="190" height= "80">
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td>
-    <td align='center' width="190" height= "90">
+    <td align='center' width="190" height= "80">
         <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
     </td>
-    <td align='center' width="190" height= "90">
+    <td align='center' width="190" height= "80">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>  
 </tr>
