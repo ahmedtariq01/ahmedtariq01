@@ -105,10 +105,10 @@
 </table>
 
 <br />
-<br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p>
+<!-- <br />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p> -->
 
-## Visitors Count
+## Profile Views
 
 <img align="left" src = "https://profile-counter.glitch.me/AhmedTariq01/count.svg" alt ="Loading">
 
