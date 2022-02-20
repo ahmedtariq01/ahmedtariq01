@@ -52,7 +52,7 @@
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80" height="60">
    </td>
    <td align='center' height= "100">
-        <img src="https://www.netways.de/wp-content/uploads/2019/07/logo_terraform_white.png" width="150" height="85">
+        <img src="https://www.netways.de/wp-content/uploads/2019/07/logo_terraform_white.png" width="160" height="90">
    </td>
    <td align='center' height= "100">
         <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-yaml-file-format-icon-design-png-image_4307725.jpg" width="90" height="80">
