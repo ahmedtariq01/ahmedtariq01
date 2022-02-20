@@ -18,7 +18,13 @@
     <td align='center' width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
-     <td align='center' width="190">
+    <td align='center'>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center'>
+        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
+    </td>
+    <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
      <td align='center'>
@@ -26,12 +32,6 @@
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
-    </td>
     <td align='center'>
         <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
     </td>
