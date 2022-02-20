@@ -71,6 +71,9 @@
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
     <td align='center'>
+        <img src="https://pngset.com/images/kubernetes-logo-symbol-sign-road-sign-stopsign-transparent-png-850380.png" >
+    </td>
+    <td align='center'>
         <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" >
     </td>
     <td align='center'>
