@@ -24,14 +24,14 @@
     <td align='center'>
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td>
+</tr>
+<tr>
     <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
      <td align='center'>
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
-    </td>
-</tr>
-<tr>
+    </td> 
     <td align='center'>
         <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
     </td>
