@@ -43,7 +43,7 @@
     </td>  
 </tr>
    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+        <img src="https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529">
     </td> 
    <td align='center' height= "100">
         <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg"  width="60" height="40">
@@ -57,14 +57,8 @@
    <td align='center' height= "100">
         <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-yaml-file-format-icon-design-png-image_4307725.jpg"  width="60" height="40">
    </td>
-
-<tr>
-    <td align='center'>
-        <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
-    </td>
-    <td align='center'>
-        <img src="https://cdn-images-1.medium.com/max/1200/1*kqpVTzo8b0e2oKdOjWQxZA.png">
-    </td>
+ </td>
+ 
 </tr>
 <tr>
     <td align='center'>
