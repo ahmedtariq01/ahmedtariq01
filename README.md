@@ -61,9 +61,9 @@
 </tr>
 
 <tr>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
-    </td>
+    </td> -->
     <td align='center'>
         <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png">
     </td>
