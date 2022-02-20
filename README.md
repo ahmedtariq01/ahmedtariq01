@@ -46,10 +46,10 @@
         <img src="https://cdn.shopify.com/s/files/1/0057/5668/2355/files/Postman-logo-orange-2021_1155x.png?v=1637252529">
     </td> 
    <td align='center' height= "100">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg"  width="60" height="40">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg"  width="80" height="60">
    </td>
    <td align='center' height= "100">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80" height="60">
    </td>
    <td align='center' height= "100">
         <img src="https://mpng.subpng.com/20180529/szy/kisspng-terraform-hashicorp-microsoft-azure-infrastructure-5b0e0b6cc80963.2449977615276470848194.jpg" width="140" height="80">
