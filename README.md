@@ -118,7 +118,7 @@
 
 <br />
 <br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="Saad Hassan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
@@ -131,7 +131,7 @@
 
 ## Contribution Graph
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhmedTariq01&theme=xcode)](https://github.com/saadhaxxan)
+[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhmedTariq01&theme=xcode)](https://github.com/AhmedTariq01)
 
 ## Some Community Projects
 
