@@ -55,10 +55,9 @@
         <img src="https://mpng.subpng.com/20180529/szy/kisspng-terraform-hashicorp-microsoft-azure-infrastructure-5b0e0b6cc80963.2449977615276470848194.jpg">
    </td>
    <td align='center' height= "100">
-        <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-yaml-file-format-icon-design-png-image_4307725.jpg">
+        <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-yaml-file-format-icon-design-png-image_4307725.jpg" width="90" height="80">
    </td>
  </td>
-
 </tr>
 
 <tr>
