@@ -3,7 +3,7 @@
 ### I'm a Developer and Cloud Enthusiast  👨🏻‍💻 :cloud:
 - 🌱 I’m currently expanding my knowledge in Cloud and DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects and to learn new technologies.
 
 <h2><i>💻 Tech Stack</i></h2>
 
