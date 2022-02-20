@@ -98,7 +98,7 @@
 <a href="mailto:ahmed.tm097@gmail.com"><img src="https://img.shields.io/badge/-ahmed.tm097@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
-## Contribution Graph
+## Contribution Graph :chart:
 
 [![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhmedTariq01&theme=xcode)](https://github.com/AhmedTariq01)
 
