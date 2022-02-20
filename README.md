@@ -42,14 +42,22 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>  
 </tr>
-<td align='center' height= "100">
-        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
-    </td>
-<tr>
-    <td align='center'>
+   <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
-    </td>
-</tr>
+    </td> 
+   <td align='center' height= "100">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg"  width="60" height="40">
+   </td>
+   <td align='center' height= "100">
+        <img src="https://w7.pngwing.com/pngs/698/341/png-transparent-python-programming-language-computer-programming-basic-saintgermainenlaye-text-logo-computer-programming-thumbnail.png"  width="60" height="40">
+   </td>
+   <td align='center' height= "100">
+        <img src=""  width="60" height="40">
+   </td>
+   <td align='center' height= "100">
+        <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
+   </td>
+
 <tr>
     <td align='center'>
         <img src="https://miro.medium.com/max/901/1*GkrYGz_r9W6AVgEloQpJFQ.png">
