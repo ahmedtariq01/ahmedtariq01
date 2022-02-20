@@ -90,6 +90,9 @@
         <img src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/aws-logo-blog-header.png?itok=t4o3meiH">
     </td>
     <td align='center'>
+        <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png">
+    </td>
+    <td align='center'>
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
     <td align='center'>
