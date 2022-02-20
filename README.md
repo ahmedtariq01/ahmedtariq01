@@ -80,7 +80,7 @@
     
 </table>
 
-<!-- <br /> -->
+<br />
 <!-- <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p> -->
 
@@ -91,7 +91,7 @@
 <br />
 <br />
 
-## 🤝🏻 &nbsp;Connect with Me
+## Connect with Me 🤝🏻 &nbsp;
 
 <p align="center">
 <a href="https://linkedin.com/in/ahmedtariq01"><img src="https://img.shields.io/badge/-Ahmed%20Tariq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -109,7 +109,7 @@
 | [Google KickStart 2022 ](https://github.com/AhmedTariq01/GoogleKickStart2022) |
 | [Setting up GCP security policies](https://github.com/AhmedTariq01/lg-gcp-policy-terraform) |
 
-<h2><i>⚙️ GitHub Analytics</i></h2>
+<h2>GitHub Analytics ⚙️</h2>
 
 <p align="center">
 <a href="https://github.com/AhmedTariq01">
