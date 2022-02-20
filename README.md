@@ -15,7 +15,7 @@
     <td align='center' width="190" height= "90">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
-    <td align='center'>
+    <td align='center' width="190" height= "90">
         <img src="https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png" width="100" height= "60">
     </td>
     <td align='center' width="190" height= "90">
@@ -35,10 +35,10 @@
     <td align='center' width="190" height= "90">
         <img src="https://vegibit.com/wp-content/uploads/2018/05/expressjs.png">
     </td>
-    <td align='center'>
+    <td align='center' width="190" height= "90">
         <img src="http://rhc4tp-cms-prod-vpc-76857813.s3.amazonaws.com/s3fs-public/mongodb-logo-rgb-j6w271g1xn.jpg">
     </td>
-    <td align='center'>
+    <td align='center' width="190" height= "90">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>  
 </tr>
