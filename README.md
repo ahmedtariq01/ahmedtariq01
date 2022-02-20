@@ -49,13 +49,13 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg"  width="60" height="40">
    </td>
    <td align='center' height= "100">
-        <img src="https://w7.pngwing.com/pngs/698/341/png-transparent-python-programming-language-computer-programming-basic-saintgermainenlaye-text-logo-computer-programming-thumbnail.png"  width="60" height="40">
-   </td>
-   <td align='center' height= "100">
-        <img src=""  width="60" height="40">
-   </td>
-   <td align='center' height= "100">
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
+   </td>
+   <td align='center' height= "100">
+        <img src="https://mpng.subpng.com/20180529/szy/kisspng-terraform-hashicorp-microsoft-azure-infrastructure-5b0e0b6cc80963.2449977615276470848194.jpg"  width="60" height="40">
+   </td>
+   <td align='center' height= "100">
+        <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-yaml-file-format-icon-design-png-image_4307725.jpg"  width="60" height="40">
    </td>
 
 <tr>
