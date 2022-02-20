@@ -16,7 +16,7 @@
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
     <td align='center'>
-        <img src="https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png" width="100" height= "90">
+        <img src="https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png" width="100" height= "60">
     </td>
     <td align='center' width="190" height= "90">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="50" width="60">
