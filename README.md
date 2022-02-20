@@ -1,10 +1,8 @@
 ## Hi I'm Ahmed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 ### I'm a Developer, Teacher and Researcher!
-- 🔭 I’m currently working as Backend and Infrastructure Engineer.
 - 🌱 I’m currently expanding my knowledge in Data Engineering and DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
-- 📢 Love to teach and inspire students. Taught over more then 2k students.
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
 <h2><i>💻 Tech Stack</i></h2>
