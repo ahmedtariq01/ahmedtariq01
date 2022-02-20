@@ -1,6 +1,6 @@
-## Hi I'm Ahmed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi I'm Ahmed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-### I'm a Developer and Cloud Enthusiast  👨🏻‍💻 :cloud:
+## I'm a Developer and Cloud Enthusiast  👨🏻‍💻 :cloud:
 - 🌱 I’m currently expanding my knowledge in Cloud and DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022 Goals: Contribute to Open Source projects and to learn new technologies.
@@ -84,21 +84,21 @@
 <!-- <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p> -->
 
-## Profile Views
+# Profile Views
 
 <img align="left" src = "https://profile-counter.glitch.me/AhmedTariq01/count.svg" alt ="Loading">
 
 <br />
 <br />
 
-## Connect with Me 🤝🏻 &nbsp;
+# Connect with Me 🤝🏻 &nbsp;
 
 <p align="center">
 <a href="https://linkedin.com/in/ahmedtariq01"><img src="https://img.shields.io/badge/-Ahmed%20Tariq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ahmed.tm097@gmail.com"><img src="https://img.shields.io/badge/-ahmed.tm097@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
-## Contribution Graph :chart:
+# Contribution Graph :chart:
 
 [![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhmedTariq01&theme=xcode)](https://github.com/AhmedTariq01)
 
@@ -109,7 +109,7 @@
 | [Google KickStart 2022 ](https://github.com/AhmedTariq01/GoogleKickStart2022) |
 | [Setting up GCP security policies](https://github.com/AhmedTariq01/lg-gcp-policy-terraform) |
 
-<h2>GitHub Analytics ⚙️</h2>
+<h1>GitHub Analytics ⚙️</h1>
 
 <p align="center">
 <a href="https://github.com/AhmedTariq01">
