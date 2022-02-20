@@ -104,7 +104,7 @@
     
 </table>
 
-<br />
+<!-- <br /> -->
 <!-- <br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p> -->
 
@@ -112,6 +112,7 @@
 
 <img align="left" src = "https://profile-counter.glitch.me/AhmedTariq01/count.svg" alt ="Loading">
 
+<br />
 <br />
 
 ## 🤝🏻 &nbsp;Connect with Me
