@@ -52,7 +52,7 @@
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="80" height="60">
    </td>
    <td align='center' height= "100">
-        <img src="https://p.kindpng.com/picc/s/636-6364798_hashicorp-terraform-logo-transparent-hd-png-download.png" width="145" height="80">
+        <img src="https://p.kindpng.com/picc/s/636-6364798_hashicorp-terraform-logo-transparent-hd-png-download.png" width="150" height="80">
    </td>
    <td align='center' height= "100">
         <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-yaml-file-format-icon-design-png-image_4307725.jpg" width="90" height="80">
