@@ -42,7 +42,7 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>  
 </tr>
-<td align='center'>
+<td align='center' height= "100">
         <img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="60" height="40">
     </td>
 <tr>
