@@ -71,7 +71,7 @@
         <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
     </td>
     <td align='center'>
-        <img src="https://w7.pngwing.com/pngs/804/119/png-transparent-kubernetes-software-deployment-docker-computer-cluster-rackn-kubernetes-text-logo-cloud-computing.png" >
+        <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" >
     </td>
     <td align='center'>
         <img src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" >
