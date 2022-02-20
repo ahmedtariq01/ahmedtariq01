@@ -69,12 +69,6 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
-    </td>
-    <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
-    </td>
-    <td align='center'>
         <img src="https://miro.medium.com/max/600/1*usQX20oLxChIAupsuRi7GQ.png">
     </td>
 </tr>
