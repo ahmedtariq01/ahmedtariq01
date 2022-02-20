@@ -9,24 +9,24 @@
 
 <table width="100">
 <tr>
-    <td align='center' width="190" height= "90">
+    <td align='center' width="190" height= "100">
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="60">
     </td>
-    <td align='center' width="190" height= "90">
+    <td align='center' width="190" height= "100">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
     </td>
-    <td align='center' width="190" height= "90">
+    <td align='center' width="190" height= "100">
         <img src="https://miro.medium.com/max/719/0*9f5uMrKMjLbzEf7q.png" width="100" height= "60">
     </td>
-    <td align='center' width="190" height= "90">
+    <td align='center' width="190" height= "100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" height="50" width="60">
     </td>
-    <td align='center' width="190" height= "90">
+    <td align='center' width="190" height= "100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
 </tr>
 <tr>
-    <td align='center' width="190" height= "60">
+    <td align='center' width="190" height= "80">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
     <td align='center' width="190" height= "60">
