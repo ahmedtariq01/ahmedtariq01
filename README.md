@@ -104,14 +104,10 @@
 
 # My Activities :mailbox_with_mail:
 
-| BOOTCAMPS & SESSIONS :tv: | 
+| Projects :tv: | 
 | :--- |
-| [Deep Learning with Tensorflow ](https://github.com/dscuol/Deep-Learning-Course) |
-| [Machine Learning Course](https://github.com/dscuol/Machine-Learning-Course) |
-| [Web Development Bootcamp](https://github.com/dscuol/Web-Development-Bootcamp) | 
-| [Advanced Web Development Bootcamp](https://github.com/dscuol/Advanced-web-development-series) | 
-| [NLP Bootcamp](https://github.com/dscuol/Natural-Language-Processing-Bootcamp) | 
-| [DSA Bootcamp C++](https://github.com/saadhaxxan/DSA-Bootcamp-Cpp) (Current) | 
+| [Google KickStart 2022 ](https://github.com/AhmedTariq01/GoogleKickStart2022) |
+| [Setting up GCP security policies](https://github.com/AhmedTariq01/lg-gcp-policy-terraform) |
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
