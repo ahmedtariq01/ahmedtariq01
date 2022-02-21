@@ -90,7 +90,7 @@
 ## Profile Views
 
 <!-- <img align="left" src = "https://profile-counter.glitch.me/AhmedTariq01/count.svg" alt ="Loading"> -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AhmedTariq01.AhmedTariq01)
+<p align="center"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=AhmedTariq01.AhmedTariq01) </p>
 
 <br />
 
