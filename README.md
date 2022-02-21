@@ -90,7 +90,7 @@
 ## Profile Views
 
 <!-- <img align="left" src = "https://profile-counter.glitch.me/AhmedTariq01/count.svg" alt ="Loading"> -->
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> <h3>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedtariq01" alt="Ahmed Tariq" /> <h3>
 
 ## Connect with Me 🤝🏻 &nbsp;
 
@@ -101,22 +101,22 @@
 
 ## Contribution Graph :chart:
 
-[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AhmedTariq01&theme=xcode)](https://github.com/AhmedTariq01)
+[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedtariq01&theme=xcode)](https://github.com/ahmedtariq01)
 
 ## My Activities :mailbox_with_mail:
 
 | Projects 👨🏻‍💻 | 
 | :--- |
-| [Google KickStart 2022 ](https://github.com/AhmedTariq01/GoogleKickStart2022) |
-| [Setting up GCP security policies](https://github.com/AhmedTariq01/lg-gcp-policy-terraform) |
+| [Google KickStart 2022 ](https://github.com/ahmedtariq01/GoogleKickStart2022) |
+| [Setting up GCP security policies](https://github.com/ahmedtariq01/lg-gcp-policy-terraform) |
 
 <h2>GitHub Analytics ⚙️</h2>
 
 <p align="center">
-<a href="https://github.com/AhmedTariq01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedTariq01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmedTariq01&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ahmedtariq01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedtariq01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedtariq01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedTariq01&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtariq01&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
