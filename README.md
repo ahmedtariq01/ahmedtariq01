@@ -90,9 +90,7 @@
 ## Profile Views
 
 <!-- <img align="left" src = "https://profile-counter.glitch.me/AhmedTariq01/count.svg" alt ="Loading"> -->
-<p align="center"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=AhmedTariq01.AhmedTariq01) </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=saadhaxxan" alt="Saad Hassan" /> </p>
-<p align="center"> <a href="https://visitor-badge.glitch.me/badge?page_id=AhmedTariq01.AhmedTariq01" alt="Saad Hassan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p>
 <br />
 
 ## Connect with Me 🤝🏻 &nbsp;
