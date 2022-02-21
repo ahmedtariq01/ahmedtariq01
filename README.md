@@ -90,7 +90,7 @@
 ## Profile Views
 
 <!-- <img align="left" src = "https://profile-counter.glitch.me/AhmedTariq01/count.svg" alt ="Loading"> -->
-<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> <h2>
+<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> <h3>
 
 ## Connect with Me 🤝🏻 &nbsp;
 
