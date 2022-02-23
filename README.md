@@ -106,7 +106,7 @@
 
 ## My Activities :mailbox_with_mail:
 
-| Projects 👨🏻‍💻 | 
+| Recent Projects 👨🏻‍💻 | 
 | :--- |
 | [Google KickStart 2022 ](https://github.com/ahmedtariq01/GoogleKickStart2022) |
 | [Setting up GCP security policies](https://github.com/ahmedtariq01/lg-gcp-policy-terraform) |
