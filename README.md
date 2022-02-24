@@ -4,6 +4,8 @@
 - 🌱 I’m currently expanding my knowledge in Cloud and DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022 Goals: Contribute to Open Source projects and to learn new technologies.
+- 👐 I'm looking for unlimited leaning opportunities.
+- [Qwiklabs/GoogleCloud :cloud: Learning Profile](https://www.qwiklabs.com/public_profiles/82960446-7f84-409b-a397-d5c3c18c288d)
 
 <h2>💻 Tech Stack</h2>
 
