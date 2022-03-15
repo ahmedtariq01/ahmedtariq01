@@ -91,9 +91,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p> -->
 
 ##  **My Certifications 🏅**
-- [Azure Fundamentals](https://www.credly.com/badges/d9583c48-6b4a-4846-b9ba-6357670c5e6e/public_url)
+- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d9583c48-6b4a-4846-b9ba-6357670c5e6e/public_url)
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="200" height="200">
+</p>
+- [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/5ad1f264-9233-4146-8a72-7dc38e1cbe10/public_url)
+<p align="left">
+  <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="200" height="200">
 </p>
 
 ## Profile Views
