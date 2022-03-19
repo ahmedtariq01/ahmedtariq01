@@ -76,7 +76,7 @@
     <td align='center'>
         <img src="https://logos-download.com/wp-content/uploads/2018/09/Kubernetes_Logo.png" >
     </td>
-    <td align='center'>
+    <td align='center' height= "100">
         <img src="https://marvel-b1-cdn.bc0a.com/f00000000152152/www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg" >
     </td>
     <td align='center'>
