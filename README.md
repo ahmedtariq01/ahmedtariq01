@@ -116,21 +116,21 @@
 
 [![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedtariq01&theme=xcode)](https://github.com/ahmedtariq01) -->
 
-## My Activities :mailbox_with_mail:
+<!-- ## My Activities :mailbox_with_mail:
 
 | Recent Projects 👨🏻‍💻 | 
 | :--- |
 | [Google KickStart 2022 ](https://github.com/ahmedtariq01/GoogleKickStart2022) |
 | [Setting up GCP security policies](https://github.com/ahmedtariq01/lg-gcp-policy-terraform) |
-| [Crime Prediction Using Machine Learning](https://github.com/ahmedtariq01/Crime-Prediction-using-Machine-Learning) |
+| [Crime Prediction Using Machine Learning](https://github.com/ahmedtariq01/Crime-Prediction-using-Machine-Learning) | -->
 
 <h2>GitHub Analytics ⚙️</h2>
 
 <p align="center">
 <a href="https://github.com/ahmedtariq01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedtariq01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedtariq01&layout=compact&langs_count=8&theme=algolia"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedtariq01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtariq01&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedtariq01&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" /> -->
 </p>
 </p>
