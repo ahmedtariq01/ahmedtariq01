@@ -139,5 +139,5 @@
 
 # Github Metrics
 <p align="center">
-	<img width="625em" src="https://github.com/ahmedtariq01/ahmedtariq01/blob/master/github-metrics.svg" />
+	<img width="625em" src="https://github.com/ahmedtariq01/ahmedtariq01/blob/main/github-metrics.svg" />
 </p>
