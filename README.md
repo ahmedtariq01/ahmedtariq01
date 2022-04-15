@@ -137,7 +137,7 @@
 </p>
 </p>
 
-# Github Metrics
+## Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/ahmedtariq01/ahmedtariq01/blob/main/github-metrics.svg" />
 </p>
