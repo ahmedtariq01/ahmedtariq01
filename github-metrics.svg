@@ -426,10 +426,7 @@
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
     </foreignObject>
-</svg>
-
-<!-- Extra
-                <div class="row margin-bottom">
+                    <!-- <div class="row margin-bottom">
                     <section class="column chart chartist">
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
@@ -582,7 +579,11 @@
                             </div>
                         </div>
                     </section>
-                </div>
+                </div> -->
+
+</svg>
 
 
- -->
+
+
+
