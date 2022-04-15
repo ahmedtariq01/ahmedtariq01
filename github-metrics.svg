@@ -223,7 +223,7 @@
                     <span class="followup-title">Overall issues and pull requests status</span>
                 </h2>
             </section> -->
-            <div class="column largeable">
+            <!-- <div class="column largeable">
                 <h3>On Ahmed Tariq's repositories</h3>
                 <div class="row fill-width">
                     <section class="column">
@@ -316,7 +316,7 @@
                         </div>
                     </section>
                 </div>
-            </div>
+            </div> -->
             <div class="column largeable">
                 <h3>Created by Ahmed Tariq</h3>
                 <div class="row fill-width">
