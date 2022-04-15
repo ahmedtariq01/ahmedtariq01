@@ -317,7 +317,7 @@
                     </section>
                 </div>
             </div> -->
-            <div class="column largeable">
+            <!-- <div class="column largeable">
                 <h3>Created by Ahmed Tariq</h3>
                 <div class="row fill-width">
                     <section class="column">
@@ -410,7 +410,7 @@
                         </div>
                     </section>
                 </div>
-            </div>
+            </div> -->
             <section class="stargazers">
                 <h2 class="field">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
