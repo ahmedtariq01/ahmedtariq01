@@ -12,7 +12,7 @@
 - 👉🏻 [Microsoft Learn-Microsoft Azure Learing Profile :cloud:](https://docs.microsoft.com/en-us/users/ahmedtariq/)
 
 
-<h2>💻 Tech Stack</h2>
+<h2>Tech Stack 💻</h2>
 
 <table width="100">
 <tr>
