@@ -5,9 +5,12 @@
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022 Goals: Contribute to Open Source projects and to learn new technologies.
 - 👐 I'm looking for unlimited leaning opportunities.
+- 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtm1)
+
+## Cloud Learning Profiles
 - 👉🏻 [Qwiklabs-Google Cloud Learning Profile :cloud:](https://www.qwiklabs.com/public_profiles/82960446-7f84-409b-a397-d5c3c18c288d)
 - 👉🏻 [Microsoft Learn-Microsoft Azure Learing Profile :cloud:](https://docs.microsoft.com/en-us/users/ahmedtariq/)
-- 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtm1)
+
 
 <h2>💻 Tech Stack</h2>
 
