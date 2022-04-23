@@ -95,7 +95,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p> -->
 
 ##  **My Certifications 🏅**
-- [Google Cloud Certified: Associate Cloud Engineer](https://www.credly.com/badges/d9583c48-6b4a-4846-b9ba-6357670c5e6e/public_url)
+- [Google Cloud Certified: Associate Cloud Engineer](https://www.credential.net/01f66ddc-5909-412d-8be8-8c417cece9e1)
 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/5ad1f264-9233-4146-8a72-7dc38e1cbe10/public_url)
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ahmedtariq) & [Accredible](https://www.credential.net/profile/ahmedtariq1/wallet)
 <p align="left">
