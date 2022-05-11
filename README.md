@@ -99,8 +99,8 @@
 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/5ad1f264-9233-4146-8a72-7dc38e1cbe10/public_url)
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ahmedtariq) & [Accredible](https://www.credential.net/profile/ahmedtariq1/wallet)
 <p align="left">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50142937" width="100" height="100">
-  <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="100" height="100">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50142937" width="130" height="130">
+  <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="130" height="130">
 </p>
 
 
