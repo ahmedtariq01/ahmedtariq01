@@ -115,7 +115,7 @@
 <h3 align="center">
 <a href="https://linkedin.com/in/ahmedtariq01"><img src="https://img.shields.io/badge/-Ahmed%20Tariq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ahmed.tm097@gmail.com"><img src="https://img.shields.io/badge/-ahmed.tm097@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/imahmedt" target="_blank"><img src="https://img.shields.io/badge/-@imahmedt-1924C0?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/imahmedt" target="_blank"><img src="https://img.shields.io/badge/-@imahmedt-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
 
 
 
