@@ -1,15 +1,18 @@
 # Hi I'm Ahmed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-## I'm a Developer and Cloud Enthusiast  👨🏻‍💻 :cloud:
-- 🌱 I’m currently expanding my knowledge in Cloud and DevOps.
+## I'm a Developer and Cloud Enthusiast 👨🏻‍💻 :cloud:
+- 🌱 I’m expanding my knowledge in Cloud and DevOps.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022 Goals: Contribute to Open Source projects and to learn new technologies.
 - 👐 I'm looking for unlimited leaning opportunities.
-- 👉🏻 [Qwiklabs-Google Cloud Learning Profile :cloud:](https://www.qwiklabs.com/public_profiles/82960446-7f84-409b-a397-d5c3c18c288d)
-- 👉🏻 [Microsoft Learn-Microsoft Azure Learing Profile :cloud:](https://docs.microsoft.com/en-us/users/ahmedtariq/)
 - 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtm1)
 
-<h2>💻 Tech Stack</h2>
+## Cloud Learning Profiles 👨🏻‍💻
+- 👉🏻 [Qwiklabs-Google Cloud Learning Profile :cloud:](https://www.qwiklabs.com/public_profiles/82960446-7f84-409b-a397-d5c3c18c288d)
+- 👉🏻 [Microsoft Learn-Microsoft Azure Learing Profile :cloud:](https://docs.microsoft.com/en-us/users/ahmedtariq/)
+
+
+<h2>Tech Stack 💻</h2>
 
 <table width="100">
 <tr>
@@ -92,12 +95,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmedTariq01" alt="Ahmed Tariq" /> </p> -->
 
 ##  **My Certifications 🏅**
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/d9583c48-6b4a-4846-b9ba-6357670c5e6e/public_url)
+- [Google Cloud Certified: Associate Cloud Engineer](https://www.credential.net/01f66ddc-5909-412d-8be8-8c417cece9e1)
 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/5ad1f264-9233-4146-8a72-7dc38e1cbe10/public_url)
-- See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ahmedtariq)
+- See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ahmedtariq) & [Accredible](https://www.credential.net/profile/ahmedtariq1/wallet)
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="200" height="200">
-  <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="200" height="200">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50142937" width="135" height="135">
+  <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="135" height="135">
 </p>
 
 
@@ -105,13 +108,15 @@
 ## Profile Views
 
 <!-- <img align="left" src = "https://profile-counter.glitch.me/AhmedTariq01/count.svg" alt ="Loading"> -->
-<h3 align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedtariq01" alt="Ahmed Tariq" /> <h3>
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedtariq01" alt="Ahmed Tariq" /> <h2>
 
 ## Connect with Me 🤝🏻 &nbsp;
 
 <h3 align="center">
 <a href="https://linkedin.com/in/ahmedtariq01"><img src="https://img.shields.io/badge/-Ahmed%20Tariq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ahmed.tm097@gmail.com"><img src="https://img.shields.io/badge/-ahmed.tm097@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/imahmedt" target="_blank"><img src="https://img.shields.io/badge/-@imahmedt-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
+
 
 
 <!-- ## Contribution Graph :chart:
