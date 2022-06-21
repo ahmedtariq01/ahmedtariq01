@@ -104,7 +104,7 @@
   <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="135" height="135">
 </p>
 
-  <h3 align="left">AzureHeroes Badges</h3>
+<h2 align="left">AzureHeroes Badges</h2>
 <p align="left">
 <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgercontenthero.jpg" alt="jonahandersson" width="100" height="100"/>
 <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgerinclusiveleader.jpg" alt="jonahandersson" width="100" height="100"/>
