@@ -103,7 +103,7 @@
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50142937" width="135" height="135">
   <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="135" height="135">
 </p>
-
+<!-- 
 <h2 align="left">AzureHeroes Badges</h2>
 <p align="left">
 <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/jonahanderssonbadgercontenthero.jpg" alt="jonahandersson" width="100" height="100"/>
@@ -112,7 +112,7 @@
   <img align="center" src="https://azcdnendpointjonahanderssontech.azureedge.net/wp-content/uploads/AzureHeroesCommunityHero.png" alt="jonahandersson" width="100" height="100"/>
 
 <p>Learn more about <a href="https://www.microsoft.com/skills/azureheroes" target="blank">AzureHeroes</a> </p>
- 
+  -->
  
 ## Profile Views
 
