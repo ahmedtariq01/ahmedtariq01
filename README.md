@@ -98,6 +98,7 @@
 ##  **My Certifications 🏅**
 - [Google Cloud Certified: Associate Cloud Engineer](https://www.credential.net/01f66ddc-5909-412d-8be8-8c417cece9e1)
 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/5ad1f264-9233-4146-8a72-7dc38e1cbe10/public_url)
+- [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/5fe51e64-80d2-4909-a20b-c21bc75c81df/public_url)
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ahmedtariq) & [Accredible](https://www.credential.net/profile/ahmedtariq1/wallet)
 <p align="left">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50142937" width="135" height="135">
