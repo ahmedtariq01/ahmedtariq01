@@ -98,12 +98,14 @@
 ##  **My Certifications 🏅**
 - [Google Cloud Certified: Associate Cloud Engineer](https://www.credential.net/01f66ddc-5909-412d-8be8-8c417cece9e1)
 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/5ad1f264-9233-4146-8a72-7dc38e1cbe10/public_url)
+- [Microsoft Certified: Identity and Access Administrator Associate](https://www.credly.com/badges/e8c78bb3-1755-49e4-ad2b-eba34e6832c4/public_url)
 - [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/5fe51e64-80d2-4909-a20b-c21bc75c81df/public_url)
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ahmedtariq) & [Accredible](https://www.credential.net/profile/ahmedtariq1/wallet)
 <p align="left">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50142937" width="135" height="135">
-  <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="135" height="135">
-  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="135" height="135">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/50142937" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="125" height="125">
+   <img src="https://images.credly.com/size/340x340/images/91295436-0704-4b98-8e1a-ef5f937bda21 identity-and-access-administrator-associate-600x600.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="125" height="125">
 
 </p>
 <!-- 
