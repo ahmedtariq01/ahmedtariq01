@@ -33,7 +33,7 @@
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/static/v1?style=flat-square&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/static/v1?style=flat-square&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=" />
 
 </p>
