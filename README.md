@@ -20,7 +20,7 @@
   <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" width="80" height="30"/>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="80" height="30" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" width="80" height="30"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FCAA00?style=flat-square&logo=JavaScript&logoColor=white" width="90" height="30"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="90" height="30"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" width="70" height="30"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" width="80" height="30"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" width="80" height="30"/>
