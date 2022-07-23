@@ -62,8 +62,8 @@
 ## Connect with Me 🤝🏻 &nbsp;
 
 <h3 align="center">
-<a href="https://linkedin.com/in/ahmedtariq01"><img src="https://img.shields.io/badge/-Ahmed%20Tariq-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/imahmedt" target="_blank"><img src="https://img.shields.io/badge/-@imahmedt-1877F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ahmedtariq01"><img src="https://img.shields.io/badge/-Ahmed%20Tariq-0077B5?style=flat&logo=Linkedin&logoColor=white"width="80" height="60"/></a>
+<a href="https://twitter.com/imahmedt" target="_blank"><img src="https://img.shields.io/badge/-@imahmedt-1877F2?style=flat&logo=twitter&logoColor=white"width="80" height="60"/></a>
 
 
 <h2>GitHub Analytics ⚙️</h2>
