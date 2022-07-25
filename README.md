@@ -39,7 +39,7 @@
   <img alt="Ansible" src="https://img.shields.io/static/v1?style=flat-square&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=" width="80" height="30"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white" width="80" height="30"/>
   <img alt="Terraform" src="https://img.shields.io/static/v1?style=flat-square&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=" width="90" height="30"/>
-
+  <img alt="gitlab" src="https://img.shields.io/badge/Gitlab-%23323330.svg?style=for-the-badge&logo=Gitlab&logoColor=%23F7DF1E" width="80" height="30"/>
 </p>
 
 
