@@ -18,7 +18,7 @@
   
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="60" height="30" />
   <img alt="Github" src="https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="80" height="30"/>
-   <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%23121011.svg?style=flat-square&logo=Gitlab&logoColor=white" width="80" height="30"/>
+   <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-%F05032.svg?style=flat-square&logo=Gitlab&logoColor=white" width="80" height="30"/>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="80" height="30" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=CSS3&logoColor=white" width="80" height="30"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" width="100" height="30"/>
