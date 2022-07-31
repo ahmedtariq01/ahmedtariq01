@@ -5,6 +5,7 @@
 - 🤝🏻 I’m looking to collaborate with other content creators and developers.
 - 🥅 2022 Goals: Contribute to Open Source projects and to learn new technologies.
 - 👐🏻 I'm looking for unlimited leaning opportunities.
+- 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 - 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtm1)
 
 ## Cloud Learning Profiles 👨🏻‍💻
@@ -65,6 +66,7 @@
 ## Connect with Me 🤝🏻 &nbsp;
 
 <h3 align="center">
+<p>Feel free to send me a connection request & I will be happy to accept your request. </p>
 <a href="https://linkedin.com/in/ahmedtariq01"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/imahmedt" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
 
