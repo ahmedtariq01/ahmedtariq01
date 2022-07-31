@@ -65,8 +65,8 @@
 
 ## Connect with Me 🤝🏻 &nbsp;
 
-<h3 align="center">
 <p>Feel free to send me a connection request & I will be happy to accept your request. </p>
+<h3 align="center">
 <a href="https://linkedin.com/in/ahmedtariq01"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://twitter.com/imahmedt" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
 
