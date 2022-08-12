@@ -44,7 +44,6 @@
   
 </p>
 
-
 ##  **My Certifications 🏅**
 - [Google Cloud Certified: Associate Cloud Engineer](https://www.credential.net/01f66ddc-5909-412d-8be8-8c417cece9e1)
 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/5ad1f264-9233-4146-8a72-7dc38e1cbe10/public_url)
