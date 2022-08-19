@@ -1,3 +1,19 @@
+# Hi, I'm Bryan 👋🏻
+
+<a href="https://amzn.to/2UeUjAI"> <img align="right" alt="" src="https://images-na.ssl-images-amazon.com/images/I/41SXDY4t6-L._SX404_BO1,204,203,200_.jpg" width="250" height="300" />
+
+### Buy my book on Amazon:
+
+[Running HashiCorp Vault in Production](https://amzn.to/2UeUjAI)
+
+## I'm an Author, Instructor and Principal Consultant for AWS and HashiCorp.
+- 🌱 I talk about Talks AWS, Packer, HashiCorp, HashiCorp Vault, and Hashicorp Consul.
+- 🤝🏻 I’m looking to collaborate with other content creators and developers.
+- 🥅 2022 Goals: Contribute to Open Source projects and to learn new technologies.
+- 👐🏻 I'm looking for unlimited leaning opportunities.
+- 🤝🏻 I am passionate about my work and always eager to connect with other experts.
+
+
 ## My Udemy Profile
 - 👉🏻 [Udemy Profile for Bryan Krausen](https://www.udemy.com/user/bryan-krausen/ "Udemy Profile")
 
@@ -73,7 +89,7 @@
 	
 </p>
 
-##  **Achievements 🏅**
+##  **My Achievements 🏅**
 - [HashiCorp Ambassador 2022](https://www.credly.com/badges/4c5fb8cd-6967-4fb1-941d-5087f5bf540a)
 - [Terraform: Authorized HashiCorp Instructor](https://www.credly.com/badges/76266b60-c8c3-40cd-ba08-eaa0403532a6)
 - [Vault: Authorized HashiCorp Instructor](https://www.credly.com/badges/4db4a411-d59a-433a-810c-988af1f5ea34)
@@ -92,6 +108,17 @@
   <img src="https://images.credly.com/size/340x340/images/28e1a22f-6bbd-49ce-8e08-4a675a7fd899/image.png" width="125" height="125">
 	
 </p>
+
+## Connect with Me 🤝🏻 &nbsp;
+
+<h3 align="center">
+<a href="https://linkedin.com/in/bryan-krausen-5ab8794"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://twitter.com/btkrausen" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
+
+
+## Profile Views
+
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=btkrausen" alt="Bryan Krausen" /> <h2>
 
 
 
