@@ -1,3 +1,108 @@
+## Udemy Profiles
+- 👉🏻 [Udemy Profile for Bryan Krausen](https://www.udemy.com/user/bryan-krausen/ "Udemy Profile")
+
+## My Courses on Udemy along with Discounts Coupons
+
+| No  | Course Link | Coupon Code | Valid Until |
+| --- | ----------- | ----------- | ----------- |
+| 1 | [Getting Started with HashiCorp Vault](https://www.udemy.com/course/hashicorp-vault/?referralCode=2B837FCB45B4916456F3) | AUGUST22 | Sept 2nd |
+| 2 | [HashiCorp Vault: The Advanced Course](https://www.udemy.com/course/vaultadvanced/?referralCode=C4C5A5D0BAD6EC1D2D1A) | AUGUST22 | Sept 2nd |
+| 3 | [Integrating HashiCorp Vault with AWS](https://www.udemy.com/course/integrating-hashicorp-vault-with-aws/?referralCode=8069E87B5BA71FD21632) | AUGUST22 | Sept 2nd |
+| 4 | [HashiCorp Certified: Vault Operations Professional](https://www.udemy.com/course/hashicorp-certified-vault-operations-professional/?referralCode=C3228B05DB53D1EB9C9E) | AUGUST22 | Sept 2nd |
+| 5 | [HashiCorp Certified: Terraform Associate Hands-On Lab Course](https://www.udemy.com/course/terraform-hands-on-labs/?referralCode=D916D9152FAE03F053E3) | AUGUST22 | Sept 2nd |
+| 6 | [HashiCorp Certified: Terraform Associate Practice Exam](https://www.udemy.com/course/terraform-associate-practice-exam/?referralCode=D98434484AB772F1C1A2) | AUGUST22 | Sept 2nd |
+| 7 | [HashiCorp Certified: Vault Associate Practice Exam](https://www.udemy.com/course/hashicorp-certified-vault-associate-practice-exam/?referralCode=B053909C293F10D9408D) | AUGUST22 | Sept 2nd |
+| 8 | [HashiCorp Certified: Consul Associate Practice Exam](https://www.udemy.com/course/consul-associate-practice-exam/?referralCode=DFDB41615ADFB8C1CD6A) | AUGUST22 | Sept 2nd |
+| 9 | [Getting Started with HashiCorp Consul](https://www.udemy.com/course/hashicorp-consul/?referralCode=6506321DC305903E7BFA) | AUGUST22 | Sept 2nd |
+| 10 | [Building Automated Machine Images using HashiCorp Packer](https://www.udemy.com/course/hashicorp-packer/?referralCode=C6799F68F1B5A1359218) | AUGUST22 | Sept 2nd |
+
+<h2>Tech Stack 💻</h2>
+
+<p>
+  
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="60" height="30" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="80" height="30"/>
+  <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-%23323330.svg?style=flat-square&logo=Gitlab&logoColor=%23F7DF1E" width="90" height="30"/>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="80" height="30" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=CSS3&logoColor=white" width="80" height="30"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" width="100" height="30"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" width="80" height="30"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" width="90" height="30"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" width="90" height="30"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" width="60" height="30"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" width="60" height="30"/>
+  <img alt="Shell Scripting" src="https://img.shields.io/badge/Shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" width="90" height="30"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" width="90" height="30"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="80" height="30"/>
+  <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="100" height="30"/>
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" width="140" height="30"/>
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="80" height="30"/>
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white" width="120" height="30"/>
+  <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat-square&logo=Yaml&logoColor=white" width="55" height="30" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" width="120" height="30"/>
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0089D6?style=flat-square&logo=Azure-DevOps&logoColor=white" width="120" height="30"/>
+  <img alt="Ansible" src="https://img.shields.io/static/v1?style=flat-square&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=" width="80" height="30"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white" width="80" height="30"/>
+  <img alt="Terraform" src="https://img.shields.io/static/v1?style=flat-square&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=" width="90" height="30"/>
+  
+</p>
+
+##  **My Certifications 🏅**
+- [AWS Certified: Security Specialty](https://www.credly.com/badges/efa2379a-4007-40f9-9cef-00d98575d415)
+- [AWS Certified: Advanced Networking Specialty](https://www.credly.com/badges/83200658-432d-41bc-a603-e02cb5d6fd85)
+- [AWS Certified: Big Data Specialty](https://www.credly.com/badges/1fc70ac2-66a9-4f3e-a7c4-e8640be65b14)
+- [AWS Certified: Solutions Architect Professional](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-41804d0af88b)
+- [AWS Certified: DevOps Engineer Professional](https://www.credly.com/badges/ac6f908e-731c-4b79-a624-a6f44b3d847f)
+- [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/829b2cc2-8bf5-45e8-8820-41804d0af88b)
+- [HashiCorp Certified: Vault Associate](https://www.credly.com/badges/04658c9a-e756-40f5-9cc1-0038c3355c54)
+- [HashiCorp Certified: Consul Associate](https://www.credly.com/badges/10bb093f-0018-40c3-bcb5-8ba4605457fb)
+
+- See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/bryan-krausen)
+
+<p align="left">
+  <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/1e4003a1-ffd4-4eb9-a9da-e14f486255d9/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/5a1ba86e-8a0f-44cb-b7e2-4c192480fedf/image.png" width="125" height="125">
+	
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Hi, I'm Ahmed 👋🏻
 
 ## I'm a Developer and Cloud Enthusiast 👨🏻‍💻 :cloud:
