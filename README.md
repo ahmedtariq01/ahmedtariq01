@@ -103,7 +103,7 @@
   <img src="https://images.credly.com/size/340x340/images/06426d9c-4375-4641-9bd2-4078984affc0/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/1b61c97d-6378-4457-a986-3123a82d0a03/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/72d19916-408b-4f4e-825d-865c5aa77335/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/b871d34d-e2d5-4371-bc02-2c5345fe0df3/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/28e1a22f-6bbd-49ce-8e08-4a675a7fd899/image.png" width="125" height="125">
 	
 </p>
