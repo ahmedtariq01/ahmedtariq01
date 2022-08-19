@@ -3,21 +3,20 @@
 <a href="https://amzn.to/2UeUjAI"> <img align="right" alt="" src="https://images-na.ssl-images-amazon.com/images/I/41SXDY4t6-L._SX404_BO1,204,203,200_.jpg" width="250" height="300" />
 
 ### Buy my book on Amazon:
+- 👉 [Running HashiCorp Vault in Production](https://amzn.to/2UeUjAI)
+- You can also buy my book on Gumroad in PDF format
+- 👉 [Running HashiCorp Vault in Production in PDF](https://gum.co/vaultbook/)
 
-[Running HashiCorp Vault in Production](https://amzn.to/2UeUjAI)
-
-## I'm an Author, Instructor and Principal Consultant for AWS and HashiCorp.
-- 🌱 I talk about Talks AWS, Packer, HashiCorp, HashiCorp Vault, and Hashicorp Consul.
-- 🤝🏻 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022 Goals: Contribute to Open Source projects and to learn new technologies.
-- 👐🏻 I'm looking for unlimited leaning opportunities.
+## I'm an Author, Instructor and Principal Consultant.
+- 🗣 I talk about Talks AWS, Packer, HashiCorp, HashiCorp Vault, and Hashicorp Consul.
+- 📲 Reach out to me for Consultancy regarding AWS and HashiCorp.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 
 
 ## My Udemy Profile
 - 👉🏻 [Udemy Profile for Bryan Krausen](https://www.udemy.com/user/bryan-krausen/ "Udemy Profile")
 
-## My Courses on Udemy along with Discounts Coupons
+## My Courses on Udemy along with Discount Coupons
 
 | No  | Course Link | Coupon Code | Valid Until |
 | --- | ----------- | ----------- | ----------- |
