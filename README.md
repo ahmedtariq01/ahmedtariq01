@@ -64,7 +64,8 @@
 | --- | ----------- |
 | 1 | [Cloud and Devops Learning Resources ](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) |
 
-c
+<br>
+
 ## Connect with Me 🤝🏻 &nbsp;
 
 <h3 align="center">
@@ -74,6 +75,7 @@ c
 <h3 align="justify">Feel free to send me a connection request & I will be happy to accept your request. </h3>
 
 <br>
+
 ## Profile Views
 
 <h2 align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedtariq01" alt="Ahmed Tariq" /> <h2>
