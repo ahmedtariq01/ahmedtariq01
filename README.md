@@ -58,11 +58,11 @@
 
 </p>
 
-## Featured Repo 🌟:
+## Featured Repos 🌟:
 
-| BOOTCAMPS & SESSIONS :tv: | 
-| :--- |
-|👉🏻| | [Cloud and Devops Learning Resources ](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) |
+| No  | Repo Link |
+| --- | ----------- |
+| 1 | [Cloud and Devops Learning Resources ](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) |
 
 
 ## Connect with Me 🤝🏻 &nbsp;
