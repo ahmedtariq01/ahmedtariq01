@@ -62,7 +62,7 @@
 
 | BOOTCAMPS & SESSIONS :tv: | 
 | :--- |
-| [Cloud and Devops Learning Resources ](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) |
+|👉🏻| | [Cloud and Devops Learning Resources ](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) |
 
 
 ## Connect with Me 🤝🏻 &nbsp;
