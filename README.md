@@ -58,7 +58,7 @@
 
 </p>
 
-## Featured Repos 🌟:
+## Featured Repos 🌟
 
 | No  | Repo Link |
 | --- | ----------- |
@@ -73,7 +73,6 @@
 
 <h3 align="justify">Feel free to send me a connection request & I will be happy to accept your request. </h3>
 
-<br>
 
 ## Profile Views
 
