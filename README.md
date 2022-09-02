@@ -58,7 +58,7 @@
 
 </p>
 
-## Featured Repos🌟
+## Featured Repos 🌟
 
 | No  | Repo Link |
 | --- | ----------- |
