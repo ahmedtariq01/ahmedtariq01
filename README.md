@@ -64,6 +64,8 @@
 | No  | Repo Link |
 | --- | ----------- |
 | 1 | [Cloud and Devops Learning Resources ](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) |
+| 2 | [AWS Projects ](https://github.com/ahmedtariq01/AWS_Projects) |
+
 
 <br>
 
