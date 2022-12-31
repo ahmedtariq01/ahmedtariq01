@@ -3,7 +3,7 @@
 ## I'm a Developer and Cloud Enthusiast 👨🏻‍💻 :cloud:
 - 🌱 I’m expanding my knowledge in Cloud and DevOps.
 - 🤝🏻 I’m looking to collaborate with other content creators and developers.
-- 🥅 2022 Goals: Contribute to Open Source projects and to learn new technologies.
+- 🥅 2023 Goals: Contribute to Open Source projects and to learn new technologies.
 - 👐🏻 I'm looking for unlimited leaning opportunities.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 - 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtm1)
@@ -56,6 +56,13 @@
   <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="125" height="125">
+
+</p>
+
+##  **My Achievements 🏆**
+- [AWS Learning: Serverless](https://www.credly.com/badges/8e1b84ae-db82-4e43-a8e9-2e2c444614cb/public_url)
+<p align="left">
+  <img src="https://images.credly.com/size/340x340/images/8e1b84ae-db82-4e43-a8e9-2e2c444614cb/AWS-Learning-Serverless-600x600.png" width="125" height="125">
 
 </p>
 
