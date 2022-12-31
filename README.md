@@ -62,7 +62,7 @@
 ##  **My Achievements 🏆**
 - [AWS Learning: Serverless](https://www.credly.com/badges/8e1b84ae-db82-4e43-a8e9-2e2c444614cb/public_url)
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/8e1b84ae-db82-4e43-a8e9-2e2c444614cb/AWS-Learning-Serverless-600x600.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="125" height="125">
 
 </p>
 
