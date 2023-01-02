@@ -6,7 +6,7 @@
 - 🥅 2023 Goals: Contribute to Open Source projects and to learn new technologies.
 - 👐🏻 I'm looking for unlimited leaning opportunities.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
-- 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtm1)
+- 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtariq)
 - 👉🏻 [LeetCode Profile 👨🏻‍💻](https://leetcode.com/ahmedtm01/)
 
 ## Cloud Learning Profiles 👨🏻‍💻
