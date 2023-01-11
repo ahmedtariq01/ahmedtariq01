@@ -65,7 +65,7 @@
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width="125" height="125">
+  <img src="img/googleit.jpg" width="125" height="125">
 
 
 </p>
