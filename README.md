@@ -61,8 +61,12 @@
 
 ##  **My Achievements 🏆**
 - [AWS Learning: Serverless](https://www.credly.com/badges/8e1b84ae-db82-4e43-a8e9-2e2c444614cb/public_url)
+- [Google IT Automation with Python](https://www.credly.com/badges/e69ca416-21e8-479b-99c6-da93ec1e8de6/public_url)
+
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width="125" height="125">
+
 
 </p>
 
