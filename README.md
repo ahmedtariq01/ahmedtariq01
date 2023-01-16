@@ -93,7 +93,7 @@
 
 ## Profile Views
 
-<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedtariq01" alt="Ahmed Tariq" /> <h2>
+<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedtariq01&style=for-the-badge&color=263759&label=PROFILE+VIEWS" alt="Ahmed Tariq" /> <h2>
 
 <h2>GitHub Analytics ⚙️</h2>
 
