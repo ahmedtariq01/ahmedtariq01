@@ -50,21 +50,25 @@
 - [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/5ad1f264-9233-4146-8a72-7dc38e1cbe10/public_url)
 - [Microsoft Certified: Identity and Access Administrator Associate](https://www.credly.com/badges/e8c78bb3-1755-49e4-ad2b-eba34e6832c4/public_url)
 - [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/5fe51e64-80d2-4909-a20b-c21bc75c81df/public_url)
+- [AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://www.credly.com/badges/e35ca6c9-de35-4ae2-9178-a1af31620955/public_url)
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ahmedtariq) & [Accredible](https://www.credential.net/profile/ahmedtariq1/wallet)
 <p align="left">
   <img src="https://images.credential.net/badge/tiny/uwh8nx0w_1660237178365_badge.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png" width="125" height="125">
 
 </p>
 
 ##  **My Achievements 🏆**
 - [AWS Learning: Serverless](https://www.credly.com/badges/8e1b84ae-db82-4e43-a8e9-2e2c444614cb/public_url)
+- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/336eb222-763a-4cba-bb13-7878a8b00962/public_url)
 - [Google IT Automation with Python](https://www.credly.com/badges/e69ca416-21e8-479b-99c6-da93ec1e8de6/public_url)
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="125" height="125">
   <img src="img/googleit.png" width="125" height="125">
 
 
