@@ -41,7 +41,6 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" width="133" height="30"/>
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0089D6?style=flat-square&logo=Azure-DevOps&logoColor=white" width="125" height="30"/>
   <img alt="AWS DevOps" src="https://img.shields.io/badge/AWS%20DevOps-23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="130" height="30"/>
-  <img alt="Ansible" src="https://img.shields.io/static/v1?style=flat-square&message=Ansible&color=EE0000&logo=Ansible&logoColor=FFFFFF&label=" width="80" height="30"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white" width="80" height="30"/>
   <img alt="Terraform" src="https://img.shields.io/static/v1?style=flat-square&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=" width="90" height="30"/>
   <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="110" height="30"/>
