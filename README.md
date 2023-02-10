@@ -66,7 +66,7 @@
 
 ##  **My Achievements 🏆**
 - [AWS Learning: Serverless](https://www.credly.com/badges/8e1b84ae-db82-4e43-a8e9-2e2c444614cb/public_url)
-- [AWS Learning: Architecting](https://www.credly.com/badges/1b3b3f9f-8b1a-4b0f-9b1f-8f9f9f9f9f9f/public_url)
+- [AWS Learning: Architecting](https://www.credly.com/badges/3d6f6e50-5996-43c8-96ea-bc3ce5e8feec/public_url)
 - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/336eb222-763a-4cba-bb13-7878a8b00962/public_url)
 - [Google IT Automation with Python](https://www.credly.com/badges/e69ca416-21e8-479b-99c6-da93ec1e8de6/public_url)
 
