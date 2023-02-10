@@ -66,11 +66,13 @@
 
 ##  **My Achievements 🏆**
 - [AWS Learning: Serverless](https://www.credly.com/badges/8e1b84ae-db82-4e43-a8e9-2e2c444614cb/public_url)
+- [AWS Learning: Architecting](https://www.credly.com/badges/1b3b3f9f-8b1a-4b0f-9b1f-8f9f9f9f9f9f/public_url)
 - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/336eb222-763a-4cba-bb13-7878a8b00962/public_url)
 - [Google IT Automation with Python](https://www.credly.com/badges/e69ca416-21e8-479b-99c6-da93ec1e8de6/public_url)
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width="125" height="125">
 
