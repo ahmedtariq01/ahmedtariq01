@@ -100,6 +100,9 @@
 
 <br>
 
+## Support Me 💰
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ahmedtariq" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 ## Profile Views
 
 <h2 align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedtariq01&style=for-the-badge&color=263759&label=PROFILE+VIEWS" alt="Ahmed Tariq" /> <h2>
