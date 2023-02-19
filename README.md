@@ -98,13 +98,16 @@
 <a href="https://twitter.com/imahmedt" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
 <a href="https://discordapp.com/users/858748782870790175" target="_blank"><img src="https://img.icons8.com/color/96/000000/discord.png" alt="discord"/></a>
 
-<h3 align="justify">Feel free to send me a connection request & I will be happy to accept your request. </h3>
+<h3 align="justify">Feel free to send me a connection request & I will be happy to accept your request.</h3>
 
 <br>
 
 ## Support Me 💰
 <h3 align="center">
 <a href="https://www.buymeacoffee.com/ahmedtariq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<h3 align="justify">If you like my work, you can buy me a coffee ☕. It will help me to keep creating more content.</h3>
+
 
 
 ## Profile Views
