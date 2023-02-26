@@ -87,6 +87,8 @@
 | --- | ----------- |
 | 1 | [Cloud and Devops Learning Resources ](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) |
 | 2 | [AWS Projects ](https://github.com/ahmedtariq01/AWS_Projects) |
+| 3 | [DevOps Projects ](https://github.com/ahmedtariq01/DevOps_Projects) |
+| 4 | [AWS Architecture Diagrams ](https://github.com/ahmedtariq01/AWS_Architecture_Diagrams) |
 
 
 <br>
