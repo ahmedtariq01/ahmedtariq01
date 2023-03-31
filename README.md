@@ -27,7 +27,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" width="80" height="30"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" width="90" height="30"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-%231572B6?style=flat-square&logo=mysql&logoColor=white" width="90" height="30"/>
-  <img alt="PostreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" width="135" height="35"/>
+  <img alt="PostreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" width="135" height="30"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" width="90" height="30"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" width="60" height="30"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" width="60" height="30"/>
@@ -43,11 +43,11 @@
   <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0089D6?style=flat-square&logo=Azure-DevOps&logoColor=white" width="125" height="30"/>
   <img alt="AWS DevOps" src="https://img.shields.io/badge/AWS%20DevOps-23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="130" height="30"/>
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white" width="80" height="30"/>
-  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white&labelColor=000000" width="135" height="35"/>
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white&labelColor=000000" width="135" height="30"/>
   <img alt="Terraform" src="https://img.shields.io/static/v1?style=flat-square&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=" width="90" height="30"/>
   <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="110" height="30"/>
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&labelColor=000000"  width="135" height="35"/>
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=orange&labelColor=000000" width="135" height="35"/>
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&labelColor=000000"  width="135" height="30"/>
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=orange&labelColor=000000" width="135" height="30"/>
 
   
 </p>
