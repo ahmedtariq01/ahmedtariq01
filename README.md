@@ -44,9 +44,9 @@
   <img alt="AWS DevOps" src="https://img.shields.io/badge/AWS%20DevOps-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="130" height="30"/>
   <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat-square&logo=Yaml&logoColor=white" width="60" height="30" />
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white&labelColor=000000" width="115" height="30"/>
-  <img alt="Terraform" src="https://img.shields.io/static/v1?style=flat-square&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=" width="100" height="30"/>
-  <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="110" height="30"/>
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&labelColor=000000"  width="115" height="30"/>
+  <img alt="Terraform" src="https://img.shields.io/static/v1?style=flat-square&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=" width="105" height="30"/>
+  <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="115" height="30"/>
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&labelColor=000000"  width="120" height="30"/>
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=orange&labelColor=000000" width="115" height="30"/>
 
   
