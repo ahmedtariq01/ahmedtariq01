@@ -35,7 +35,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" width="95" height="30"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="90" height="30"/>
   <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="115" height="30"/>
-  <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="90" height="30"/>
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-FF9900.svg?style=flat-square&logo=amazon&logoColor=white" width="90" height="30"/>
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" width="155" height="30"/>
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white" width="135" height="30"/>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" width="133" height="30"/>
