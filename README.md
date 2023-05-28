@@ -58,6 +58,7 @@
 - [Microsoft Certified: Identity and Access Administrator Associate](https://www.credly.com/badges/e8c78bb3-1755-49e4-ad2b-eba34e6832c4/public_url)
 - [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/5fe51e64-80d2-4909-a20b-c21bc75c81df/public_url)
 - [AZ-305: Designing Microsoft Azure Infrastructure Solutions](https://www.credly.com/badges/e35ca6c9-de35-4ae2-9178-a1af31620955/public_url)
+- [Multicloud Network Associate](https://www.credly.com/badges/59dbc819-c2b2-4186-816c-4f7a6dd046a3/public_url)
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ahmedtariq) & [Accredible](https://www.credential.net/profile/ahmedtariq1/wallet)
 <p align="left">
   <img src="https://images.credential.net/badge/tiny/uwh8nx0w_1660237178365_badge.png" width="125" height="125">
@@ -65,6 +66,7 @@
   <img src="https://images.credly.com/size/340x340/images/91295436-0704-4b98-8e1a-ef5f937bda21/identity-and-access-administrator-associate-600x600.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/9d7dc4c0-5681-41fc-b96b-26e9157786d7/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png" width="125" height="125">
 
 </p>
 
