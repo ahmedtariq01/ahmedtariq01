@@ -101,6 +101,7 @@
 - [Top 7 Benefits of AWS ECS: Streamlining Your Infrastructure with Ease ](https://medium.com/@ahmedtm/top-7-benefits-of-aws-ecs-streamlining-your-infrastructure-with-ease-3a9565de8fe7)
 - [Demystifying ECS vs EKS: An Expert’s Guide to Choosing the Right Fit for Your Application ](https://medium.com/@ahmedtm/demystifying-ecs-vs-eks-an-experts-guide-to-choosing-the-right-fit-for-your-application-112930e006f4)
 - [DevOps Uncovered: It’s More Than Just Running Scripts ](https://medium.com/@ahmedtm/devops-uncovered-its-more-than-just-running-scripts-ce386c0a00a8)
+- [Optimizing Costs in Serverless Architectures: Strategies for Improved Efficiency ](https://medium.com/@ahmedtm/optimizing-costs-in-serverless-architectures-strategies-for-improved-efficiency-c18f8f41d507)
 
 <br>
 
