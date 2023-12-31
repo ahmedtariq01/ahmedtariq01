@@ -3,7 +3,7 @@
 ## I'm a Developer and Cloud Enthusiast 👨🏻‍💻 :cloud:
 - 🌱 I’m expanding my knowledge in Cloud and DevOps.
 - 🤝🏻 I’m looking to collaborate with other content creators and developers.
-- 🥅 2023 Goals: Contribute to Open Source projects and to learn new technologies.
+- 🥅 2024 Goals: Contribute to Open Source projects and to learn new technologies.
 - 👐🏻 I'm looking for unlimited leaning opportunities.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 - 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtariq)
