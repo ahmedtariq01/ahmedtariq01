@@ -74,6 +74,7 @@
 - [AWS Learning: Object Storage](https://www.credly.com/badges/f15d1813-0287-44d4-b097-456b356fd2b1/public_url)
 - [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/336eb222-763a-4cba-bb13-7878a8b00962/public_url)
 - [Google IT Automation with Python](https://www.credly.com/badges/e69ca416-21e8-479b-99c6-da93ec1e8de6/public_url)
+- [Google Project Management Certificate](https://www.credly.com/badges/25ce42a9-5686-4518-9817-dfbef843a2f6/public_url)
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="125" height="125">
@@ -81,6 +82,7 @@
   <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" width="125" height="125">
 
 
 </p>
