@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Cloud Enthusiast 👨🏻‍💻 :cloud:
 
-<a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url" target="_blank" rel="noreferrer">
+<a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url" target="_blank" rel="noopener noreferrer">
   <img align="right" hspace="50" src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" title="AWS Cloud Club Captain" width="150" height="150" />
 </a>
 
