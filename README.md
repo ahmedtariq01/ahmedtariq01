@@ -64,7 +64,7 @@
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/87eec792-3c63-4526-aafb-da866a30fa54/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="125" height="125">
 
 </p>
 
