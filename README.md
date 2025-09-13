@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td width="70%" valign="top">
+    <td width="80%" valign="top">
       <ul>
         <li>🌱 I’m expanding my knowledge in Cloud and DevOps.</li>
         <li>🤝🏻 I’m looking to collaborate with other content creators and developers.</li>
@@ -15,12 +15,11 @@
         <li>👉🏻 <a href="https://leetcode.com/ahmedtm01/">LeetCode Profile 👨🏻‍💻</a></li>
       </ul>
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td width="20%" align="center" valign="middle">
       <a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url">
         <img src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" width="110" height="110" />
       </a>
       <br/>
-      <sub><strong>AWS Cloud Club Captain</strong></sub>
     </td>
   </tr>
 </table>
