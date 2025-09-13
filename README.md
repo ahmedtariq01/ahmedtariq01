@@ -2,11 +2,9 @@
 
 ## I'm a Developer and Cloud Enthusiast 👨🏻‍💻 :cloud:
 
-<div align="right" style="margin-left:18px;">
-  <a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url" target="_blank" rel="noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" title="AWS Cloud Club Captain" width="140" height="140" />
-  </a>
-</div>
+<a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url" target="_blank" rel="noreferrer">
+  <img align="right" hspace="24" src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" title="AWS Cloud Club Captain" width="110" height="110" />
+</a>
 
 - 🌱 I’m expanding my knowledge in Cloud and DevOps.
 - 🤝🏻 I’m looking to collaborate with other content creators and developers.
@@ -16,7 +14,7 @@
 - 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtariq)
 - 👉🏻 [LeetCode Profile 👨🏻‍💻](https://leetcode.com/ahmedtm01/)
 
-<div style="clear:both;"></div>
+<div style="clear: both;"></div>
 
 ## Cloud Learning Profiles 👨🏻‍💻
 - 👉🏻 [Qwiklabs-Google Cloud Learning Profile :cloud:](https://www.qwiklabs.com/public_profiles/82960446-7f84-409b-a397-d5c3c18c288d)
