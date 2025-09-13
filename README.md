@@ -59,53 +59,41 @@
 </p>
 
 <p>
-  <!-- Core tech -->
-  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"></a>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
-  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white"></a>
-  <a href="https://learn.microsoft.com/powershell/"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-2CA5E0?style=flat-square&logo=powershell&logoColor=white"></a>
-  <a href="https://yaml.org/"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white"></a>
-  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://about.gitlab.com/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"></a>
+  <b>Core:&nbsp;</b>
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28"></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" height="28"></a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="28"></a>
+  <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" height="28"></a>
+  <a href="https://learn.microsoft.com/powershell/"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-2CA5E0?style=flat-square&logo=powershell&logoColor=white" height="28"></a>
+  <a href="https://yaml.org/"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" height="28"></a>
+  <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="28"></a>
+  <a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28"></a>
+  <a href="https://about.gitlab.com/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" height="28"></a>
+  <br/>
 
-  <!-- Cloud (provider-level only) -->
-  <a href="https://azure.microsoft.com/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white"></a>
-  <a href="https://aws.amazon.com/"><img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></a>
-  <a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"></a>
+  <b>Cloud:&nbsp;</b>
+  <a href="https://azure.microsoft.com/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" height="28"></a>
+  <a href="https://aws.amazon.com/"><img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="28"></a>
+  <a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="28"></a>
+  <br/>
 
-  <!-- CI/CD -->
-  <a href="https://docs.github.com/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"></a>
-  <a href="https://learn.microsoft.com/azure/devops/"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0089D6?style=flat-square&logo=azuredevops&logoColor=white"></a>
-  <a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"></a>
+  <b>CI/CD (tools):&nbsp;</b>
+  <a href="https://docs.github.com/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28"></a>
+  <a href="https://learn.microsoft.com/azure/devops/"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0089D6?style=flat-square&logo=azuredevops&logoColor=white" height="28"></a>
+  <a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" height="28"></a>
+  <br/>
 
-  <!-- Containers & orchestration -->
-  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"></a>
-  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"></a>
-  <a href="https://helm.sh/"><img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white"></a>
+  <b>Containers:&nbsp;</b>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28"></a>
+  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="28"></a>
+  <a href="https://helm.sh/"><img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="28"></a>
+  <br/>
 
-  <!-- IaC & automation -->
-  <a href="https://www.terraform.io/"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"></a>
-  <a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/"><img alt="Bicep" src="https://img.shields.io/badge/Bicep-0E7CFF?style=flat-square&logo=microsoftazure&logoColor=white"></a>
-  <a href="https://www.ansible.com/"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"></a>
-  <a href="https://docs.aws.amazon.com/cdk/"><img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square&logo=amazonaws&logoColor=white"></a>
+  <b>IaC:&nbsp;</b>
+  <a href="https://www.terraform.io/"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="28"></a>
+  <a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/"><img alt="Bicep" src="https://img.shields.io/badge/Bicep-0E7CFF?style=flat-square&logo=microsoftazure&logoColor=white" height="28">
 
-  <!-- Observability -->
-  <a href="https://prometheus.io/"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"></a>
-  <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"></a>
-  <a href="https://grafana.com/oss/loki/"><img alt="Loki" src="https://img.shields.io/badge/Loki-525252?style=flat-square&logo=grafana&logoColor=white"></a>
-
-  <!-- Datastores -->
-  <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></a>
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
-  <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"></a>
-
-  <!-- OS & tooling -->
-  <a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000"></a>
-  <a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
-  <a href="https://nginx.org/"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"></a>
-</p>
+  </p>
 
 
 ##  **My Certifications 🏅**
