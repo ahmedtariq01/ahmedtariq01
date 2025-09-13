@@ -24,64 +24,100 @@
 
 <table>
   <tr>
-    <td><a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="42"></a></td>
-    <td><a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="42"></a></td>
-    <td><a href="https://about.gitlab.com/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" height="42"></a></td>
-    <td><a href="https://developer.mozilla.org/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="42"></a></td>
-    <td><a href="https://developer.mozilla.org/docs/Web/CSS"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="42"></a></td>
-    <td><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" height="42"></a></td>
-    <td><a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="42"></a></td>
+    <td><a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="46"></a></td>
+    <td><a href="https://github.com/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="46"></a></td>
+    <td><a href="https://about.gitlab.com/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" height="46"></a></td>
+    <td><a href="https://developer.mozilla.org/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="46"></a></td>
+    <td><a href="https://developer.mozilla.org/docs/Web/CSS"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="46"></a></td>
+    <td><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" height="46"></a></td>
+    <td><a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="46"></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" height="42"></a></td>
-    <td><a href="https://learn.microsoft.com/powershell/"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-2CA5E0?style=flat-square&logo=powershell&logoColor=white" height="42"></a></td>
-    <td><a href="https://yaml.org/"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="42"></a></td>
-    <td><a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="42"></a></td>
-    <td><a href="https://helm.sh/"><img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="42"></a></td>
-    <td><a href="https://docs.docker.com/compose/"><img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-384d54?style=flat-square&logo=docker&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.terraform.io/"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="42"></a></td>
+    <td><a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" height="46"></a></td>
+    <td><a href="https://learn.microsoft.com/powershell/"><img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-2CA5E0?style=flat-square&logo=powershell&logoColor=white" height="46"></a></td>
+    <td><a href="https://yaml.org/"><img alt="YAML" src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="46"></a></td>
+    <td><a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="46"></a></td>
+    <td><a href="https://helm.sh/"><img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="46"></a></td>
+    <td><a href="https://docs.docker.com/compose/"><img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-384d54?style=flat-square&logo=docker&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.terraform.io/"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="46"></a></td>
   </tr>
   <tr>
-    <td><a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/"><img alt="Bicep" src="https://img.shields.io/badge/Bicep-0E7CFF?style=flat-square&logo=microsoftazure&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.ansible.com/"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" height="42"></a></td>
-    <td><a href="https://docs.aws.amazon.com/cdk/"><img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="42"></a></td>
-    <td><a href="https://aws.amazon.com/"><img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="42"></a></td>
-    <td><a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="42"></a></td>
-    <td><a href="https://azure.microsoft.com/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" height="42"></a></td>
-    <td><a href="https://docs.github.com/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="42"></a></td>
-    <td><a href="https://learn.microsoft.com/azure/devops/"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0089D6?style=flat-square&logo=azuredevops&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" height="42"></a></td>
-    <td><a href="https://prometheus.io/"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="42"></a></td>
+    <td><a href="https://learn.microsoft.com/azure/azure-resource-manager/bicep/"><img alt="Bicep" src="https://img.shields.io/badge/Bicep-0E7CFF?style=flat-square&logo=microsoftazure&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.ansible.com/"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" height="46"></a></td>
+    <td><a href="https://docs.aws.amazon.com/cdk/"><img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="46"></a></td>
+    <td><a href="https://aws.amazon.com/"><img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="46"></a></td>
+    <td><a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="46"></a></td>
+    <td><a href="https://azure.microsoft.com/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" height="46"></a></td>
+    <td><a href="https://docs.github.com/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="46"></a></td>
+    <td><a href="https://learn.microsoft.com/azure/devops/"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0089D6?style=flat-square&logo=azuredevops&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.jenkins.io/"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" height="46"></a></td>
+    <td><a href="https://prometheus.io/"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="46"></a></td>
   </tr>
   <tr>
-    <td><a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="42"></a></td>
-    <td><a href="https://grafana.com/oss/loki/"><img alt="Loki" src="https://img.shields.io/badge/Loki-525252?style=flat-square&logo=grafana&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.elastic.co/"><img alt="Elastic Stack" src="https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square&logo=elastic&logoColor=white" height="42"></a></td>
-    <td><a href="https://learn.microsoft.com/azure/azure-monitor/"><img alt="Azure Monitor" src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="42"></a></td>
-    <td><a href="https://aws.amazon.com/cloudwatch/"><img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-5A3E85?style=flat-square&logo=amazonaws&logoColor=white" height="42"></a></td>
-    <td><a href="https://newrelic.com/"><img alt="New Relic" src="https://img.shields.io/badge/New%20Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" height="42"></a></td>
-    <td><a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" height="42"></a></td>
-    <td><a href="https://nginx.org/"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" height="42"></a></td>
-    <td><a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="42"></a></td>
+    <td><a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="46"></a></td>
+    <td><a href="https://grafana.com/oss/loki/"><img alt="Loki" src="https://img.shields.io/badge/Loki-525252?style=flat-square&logo=grafana&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.elastic.co/"><img alt="Elastic Stack" src="https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square&logo=elastic&logoColor=white" height="46"></a></td>
+    <td><a href="https://learn.microsoft.com/azure/azure-monitor/"><img alt="Azure Monitor" src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="46"></a></td>
+    <td><a href="https://aws.amazon.com/cloudwatch/"><img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-5A3E85?style=flat-square&logo=amazonaws&logoColor=white" height="46"></a></td>
+    <td><a href="https://newrelic.com/"><img alt="New Relic" src="https://img.shields.io/badge/New%20Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.kernel.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" height="46"></a></td>
+    <td><a href="https://www.microsoft.com/windows/"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" height="46"></a></td>
+    <td><a href="https://nginx.org/"><img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" height="46"></a></td>
+    <td><a href="https://code.visualstudio.com/"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" height="46"></a></td>
   </tr>
   <tr>
-    <td><a href="https://openai.com/"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.langchain.com/"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="42"></a></td>
-    <td><a href="https://huggingface.co/"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" height="42"></a></td>
-    <td><a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="42"></a></td>
-    <td><a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="42"></a></td>
-    <td><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="42"></a></td>
-    <td><a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="42"></a></td>
+    <td><a href="https://openai.com/"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.langchain.com/"><img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="46"></a></td>
+    <td><a href="https://huggingface.co/"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000000" height="46"></a></td>
+    <td><a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="46"></a></td>
+    <td><a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="46"></a></td>
+    <td><a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="46"></a></td>
+    <td><a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" height="46"></a></td>
   </tr>
 </table>
 
+
+<p>
+
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="60" height="30" />
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=Github&logoColor=white" width="80" height="30"/>
+  <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63.svg?style=flat-square&logo=Gitlab&logoColor=%23F7DF1E" width="90" height="30"/>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" width="80" height="30" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=CSS3&logoColor=white" width="80" height="30"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" width="100" height="30"/>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" width="80" height="30"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" width="90" height="30"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-%231572B6?style=flat-square&logo=mysql&logoColor=white" width="90" height="30"/>
+  <img alt="PostreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" width="135" height="30"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" width="95" height="30"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" width="65" height="30"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" width="60" height="30"/>
+  <img alt="Bash Scripting" src="https://img.shields.io/badge/Bash_Scripting-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" width="100" height="30"/>
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" width="95" height="30"/>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" width="90" height="30"/>
+  <img alt="kubernetes"src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=flat-square&logo=Kubernetes&logoColor=white" width="115" height="30"/>
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon_Web_Services-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="150" height="30"/>
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" width="150" height="30"/>
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white" width="127" height="30"/>
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" width="128" height="30"/>
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?style=flat-square&logo=Jenkins&logoColor=white" width="90" height="30"/>
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0089D6?style=flat-square&logo=Azure-DevOps&logoColor=white" width="118" height="30"/>
+  <img alt="AWS DevOps" src="https://img.shields.io/badge/AWS%20DevOps-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="130" height="30"/>
+  <img alt="YAML" src="https://img.shields.io/badge/-Yaml-F05032?style=flat-square&logo=Yaml&logoColor=white" width="60" height="30" />
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white&labelColor=000000" width="115" height="30"/>
+  <img alt="Terraform" src="https://img.shields.io/static/v1?style=flat-square&message=Terraform&color=7B42BC&logo=Terraform&logoColor=FFFFFF&label=" width="105" height="30"/>
+  <img alt="AWS CDK" src="https://img.shields.io/badge/AWS%20CDK-FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" width="115" height="30"/>
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&labelColor=000000"  width="120" height="30"/>
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=orange&labelColor=000000" width="115" height="30"/>
+
+
+</p>
 
 ##  **My Certifications 🏅**
 - <a href="https://www.credential.net/01f66ddc-5909-412d-8be8-8c417cece9e1" target="_blank" rel="noreferrer">Google Cloud Certified: Associate Cloud Engineer</a>
