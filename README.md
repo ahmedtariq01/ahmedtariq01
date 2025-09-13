@@ -6,19 +6,19 @@
   <img align="right" hspace="50" src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" title="AWS Cloud Club Captain" width="150" height="150" />
 </a>
 
-- 🌱 I’m expanding my knowledge in Cloud and DevOps.
+- 🌱 I’m expanding my knowledge in Cloud, DevOps and AI.
 - 🤝🏻 I’m looking to collaborate with other content creators and developers.
-- 🥅 2024 Goals: Contribute to Open Source projects and to learn new technologies.
+- 🥅 2025 Goals: Building Resilient AI Solutions with DevSecOps & Cloud Automation.
 - 👐🏻 I'm looking for unlimited learning opportunities.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
-- 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtariq)
-- 👉🏻 [LeetCode Profile 👨🏻‍💻](https://leetcode.com/ahmedtm01/)
+- 👉🏻 <a href="https://g.dev/ahmedtariq" target="_blank" rel="noreferrer">Google Developer Profile 👨🏻‍💻</a>
+- 👉🏻 <a href="https://leetcode.com/ahmedtm01/" target="_blank" rel="noreferrer">LeetCode Profile 👨🏻‍💻</a>
 
 <div style="clear: both;"></div>
 
 ## Cloud Learning Profiles 👨🏻‍💻
-- 👉🏻 [Qwiklabs-Google Cloud Learning Profile :cloud:](https://www.qwiklabs.com/public_profiles/82960446-7f84-409b-a397-d5c3c18c288d)
-- 👉🏻 [Microsoft Learn-Microsoft Azure Learing Profile :cloud:](https://learn.microsoft.com/en-us/users/ahmedtariq/credentials)
+- 👉🏻 <a href="https://www.qwiklabs.com/public_profiles/82960446-7f84-409b-a397-d5c3c18c288d" target="_blank" rel="noreferrer">Qwiklabs - Google Cloud Learning Profile :cloud:</a>
+- 👉🏻 <a href="https://learn.microsoft.com/en-us/users/ahmedtariq/credentials" target="_blank" rel="noreferrer">Microsoft Learn - Microsoft Azure Learning Profile :cloud:</a>
 
 
 <h2>Tech Stack 💻</h2>
@@ -60,13 +60,13 @@
 </p>
 
 ##  **My Certifications 🏅**
-- [Google Cloud Certified: Associate Cloud Engineer](https://www.credential.net/01f66ddc-5909-412d-8be8-8c417cece9e1)
-- [AWS Certified: Solutions Architect Associate](https://www.credly.com/badges/4b089800-d7bf-43bf-a32a-0fa61ed66152/public_url)
-- [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/5fe51e64-80d2-4909-a20b-c21bc75c81df/public_url)
-- [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/ahmedtariq/11CB8A6C2AF23B3F?sharingId=1FC316791E36A456)
-- [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/ahmedtariq/BBC99E997A817846?sharingId=1FC316791E36A456)
-- [Multicloud Network Associate](https://www.credly.com/badges/59dbc819-c2b2-4186-816c-4f7a6dd046a3/public_url)
-- See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ahmedtariq) & [Accredible](https://www.credential.net/profile/ahmedtariq1/wallet)
+- <a href="https://www.credential.net/01f66ddc-5909-412d-8be8-8c417cece9e1" target="_blank" rel="noreferrer">Google Cloud Certified: Associate Cloud Engineer</a>
+- <a href="https://www.credly.com/badges/4b089800-d7bf-43bf-a32a-0fa61ed66152/public_url" target="_blank" rel="noreferrer">AWS Certified: Solutions Architect Associate</a>
+- <a href="https://www.credly.com/badges/5fe51e64-80d2-4909-a20b-c21bc75c81df/public_url" target="_blank" rel="noreferrer">Microsoft Certified: DevOps Engineer Expert</a>
+- <a href="https://learn.microsoft.com/api/credentials/share/en-us/ahmedtariq/11CB8A6C2AF23B3F?sharingId=1FC316791E36A456" target="_blank" rel="noreferrer">Microsoft Certified: Azure Solutions Architect Expert</a>
+- <a href="https://learn.microsoft.com/api/credentials/share/en-us/ahmedtariq/BBC99E997A817846?sharingId=1FC316791E36A456" target="_blank" rel="noreferrer">Microsoft Certified: Azure AI Engineer Associate</a>
+- <a href="https://www.credly.com/badges/59dbc819-c2b2-4186-816c-4f7a6dd046a3/public_url" target="_blank" rel="noreferrer">Multicloud Network Associate</a>
+- See all my Certifications here 👉🏻 <a href="https://www.credly.com/users/ahmedtariq" target="_blank" rel="noreferrer">Credly</a> &amp; <a href="https://www.credential.net/profile/ahmedtariq1/wallet" target="_blank" rel="noreferrer">Accredible</a>
 <p align="left">
   <img src="https://images.credential.net/badge/tiny/uwh8nx0w_1660237178365_badge.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125">
@@ -78,12 +78,12 @@
 </p>
 
 ##  **My Achievements 🏆**
-- [AWS Learning: Serverless](https://www.credly.com/badges/8e1b84ae-db82-4e43-a8e9-2e2c444614cb/public_url)
-- [AWS Learning: Architecting](https://www.credly.com/badges/3d6f6e50-5996-43c8-96ea-bc3ce5e8feec/public_url)
-- [AWS Learning: Object Storage](https://www.credly.com/badges/f15d1813-0287-44d4-b097-456b356fd2b1/public_url)
-- [AWS Cloud Quest: Cloud Practitioner](https://www.credly.com/badges/336eb222-763a-4cba-bb13-7878a8b00962/public_url)
-- [Google IT Automation with Python](https://www.credly.com/badges/e69ca416-21e8-479b-99c6-da93ec1e8de6/public_url)
-- [Google Project Management Certificate](https://www.credly.com/badges/25ce42a9-5686-4518-9817-dfbef843a2f6/public_url)
+- <a href="https://www.credly.com/badges/8e1b84ae-db82-4e43-a8e9-2e2c444614cb/public_url" target="_blank" rel="noreferrer">AWS Learning: Serverless</a>
+- <a href="https://www.credly.com/badges/3d6f6e50-5996-43c8-96ea-bc3ce5e8feec/public_url" target="_blank" rel="noreferrer">AWS Learning: Architecting</a>
+- <a href="https://www.credly.com/badges/f15d1813-0287-44d4-b097-456b356fd2b1/public_url" target="_blank" rel="noreferrer">AWS Learning: Object Storage</a>
+- <a href="https://www.credly.com/badges/336eb222-763a-4cba-bb13-7878a8b00962/public_url" target="_blank" rel="noreferrer">AWS Cloud Quest: Cloud Practitioner</a>
+- <a href="https://www.credly.com/badges/e69ca416-21e8-479b-99c6-da93ec1e8de6/public_url" target="_blank" rel="noreferrer">Google IT Automation with Python</a>
+- <a href="https://www.credly.com/badges/25ce42a9-5686-4518-9817-dfbef843a2f6/public_url" target="_blank" rel="noreferrer">Google Project Management Certificate</a>
 
 <p align="left">
   <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="125" height="125">
@@ -100,22 +100,22 @@
 
 | No  | Repo Link |
 | --- | ----------- |
-| 1 | [Cloud and Devops Learning Resources ](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) |
-| 2 | [AWS Projects ](https://github.com/ahmedtariq01/AWS_Projects) |
-| 3 | [DevOps Projects ](https://github.com/ahmedtariq01/DevOps_Projects) |
-| 4 | [AWS Architecture Diagrams ](https://github.com/ahmedtariq01/AWS_Architecture_Diagrams) |
+| 1 | <a href="https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources" target="_blank" rel="noreferrer">Cloud and Devops Learning Resources</a> |
+| 2 | <a href="https://github.com/ahmedtariq01/AWS_Projects" target="_blank" rel="noreferrer">AWS Projects</a> |
+| 3 | <a href="https://github.com/ahmedtariq01/DevOps_Projects" target="_blank" rel="noreferrer">DevOps Projects</a> |
+| 4 | <a href="https://github.com/ahmedtariq01/AWS_Architecture_Diagrams" target="_blank" rel="noreferrer">AWS Architecture Diagrams</a> |
 
 
 <br>
 
 ## Blogs 📝
-- [Top 7 Benefits of AWS ECS: Streamlining Your Infrastructure with Ease ](https://medium.com/@ahmedtm/top-7-benefits-of-aws-ecs-streamlining-your-infrastructure-with-ease-3a9565de8fe7)
-- [Demystifying ECS vs EKS: An Expert’s Guide to Choosing the Right Fit for Your Application ](https://medium.com/@ahmedtm/demystifying-ecs-vs-eks-an-experts-guide-to-choosing-the-right-fit-for-your-application-112930e006f4)
-- [DevOps Uncovered: It’s More Than Just Running Scripts ](https://medium.com/@ahmedtm/devops-uncovered-its-more-than-just-running-scripts-ce386c0a00a8)
-- [Optimizing Costs in Serverless Architectures: Strategies for Improved Efficiency ](https://medium.com/@ahmedtm/optimizing-costs-in-serverless-architectures-strategies-for-improved-efficiency-c18f8f41d507)
-- [Unlocking Efficiency: A Guide to Optimizing Operations in the Cloud ](https://medium.com/@ahmedtm/unlocking-efficiency-a-guide-to-optimizing-operations-in-the-cloud-e9f742f625d8)
-- [A Simple Guide to Run the LLama Model in a Docker Container ](https://medium.com/@ahmedtm/a-simple-guide-to-run-the-llama-model-in-a-docker-container-a3899032995e)
-- [The Ultimate Serverless Security Guide: Protect Your Serverless Architecture Like a Pro! ](https://medium.com/@ahmedtm/the-ultimate-serverless-security-guide-protect-your-serverless-architecture-like-a-pro-3fd050748ccc)
+- <a href="https://medium.com/@ahmedtm/top-7-benefits-of-aws-ecs-streamlining-your-infrastructure-with-ease-3a9565de8fe7" target="_blank" rel="noreferrer">Top 7 Benefits of AWS ECS: Streamlining Your Infrastructure with Ease</a>
+- <a href="https://medium.com/@ahmedtm/demystifying-ecs-vs-eks-an-experts-guide-to-choosing-the-right-fit-for-your-application-112930e006f4" target="_blank" rel="noreferrer">Demystifying ECS vs EKS: An Expert’s Guide to Choosing the Right Fit for Your Application</a>
+- <a href="https://medium.com/@ahmedtm/devops-uncovered-its-more-than-just-running-scripts-ce386c0a00a8" target="_blank" rel="noreferrer">DevOps Uncovered: It’s More Than Just Running Scripts</a>
+- <a href="https://medium.com/@ahmedtm/optimizing-costs-in-serverless-architectures-strategies-for-improved-efficiency-c18f8f41d507" target="_blank" rel="noreferrer">Optimizing Costs in Serverless Architectures: Strategies for Improved Efficiency</a>
+- <a href="https://medium.com/@ahmedtm/unlocking-efficiency-a-guide-to-optimizing-operations-in-the-cloud-e9f742f625d8" target="_blank" rel="noreferrer">Unlocking Efficiency: A Guide to Optimizing Operations in the Cloud</a>
+- <a href="https://medium.com/@ahmedtm/a-simple-guide-to-run-the-llama-model-in-a-docker-container-a3899032995e" target="_blank" rel="noreferrer">A Simple Guide to Run the LLama Model in a Docker Container</a>
+- <a href="https://medium.com/@ahmedtm/the-ultimate-serverless-security-guide-protect-your-serverless-architecture-like-a-pro-3fd050748ccc" target="_blank" rel="noreferrer">The Ultimate Serverless Security Guide: Protect Your Serverless Architecture Like a Pro!</a>
 
 
 <br>
@@ -123,9 +123,9 @@
 ## Connect with Me 🤝🏻 &nbsp;
 
 <h3 align="center">
-<a href="https://linkedin.com/in/ahmedtariq01"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://twitter.com/imahmedt" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
-<a href="https://discordapp.com/users/858748782870790175" target="_blank"><img src="https://img.icons8.com/color/96/000000/discord.png" alt="discord"/></a>
+<a href="https://linkedin.com/in/ahmedtariq01" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://twitter.com/imahmedt" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
+<a href="https://discordapp.com/users/858748782870790175" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/96/000000/discord.png" alt="discord"/></a>
 
 <h3 align="justify">Feel free to send me a connection request & I will be happy to accept your request.</h3>
 
@@ -145,7 +145,7 @@
 <h2>GitHub Analytics ⚙️</h2>
 
 <p align="center">
-<a href="https://github.com/ahmedtariq01">
+<a href="https://github.com/ahmedtariq01" target="_blank" rel="noreferrer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedtariq01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmedtariq01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
