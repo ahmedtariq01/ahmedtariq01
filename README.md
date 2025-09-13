@@ -7,7 +7,7 @@
 </a>
 
 - 🌱 I’m expanding my knowledge in Cloud, DevOps and AI.
-- 👮🏻‍♀️ I serve as an AWS Cloud Club Captain, fostering community learning and cloud adoption.
+- 👮🏻‍♀️ Leading as an AWS Cloud Club Captain, mentoring fellow cloud enthusiasts.
 - 🥅 2025 Goals: Building Resilient AI Solutions with DevSecOps & Cloud Automation.
 - 🤝🏻 I'm passionate about my work and always eager to connect with other experts.
 - 👉🏻 <a href="https://g.dev/ahmedtariq" target="_blank" rel="noreferrer">Google Developer Profile 👨🏻‍💻</a>
