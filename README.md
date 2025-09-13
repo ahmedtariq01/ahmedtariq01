@@ -4,7 +4,7 @@
 - 🌱 I’m expanding my knowledge in Cloud and DevOps.
 - 🤝🏻 I’m looking to collaborate with other content creators and developers.
 - 🥅 2024 Goals: Contribute to Open Source projects and to learn new technologies.
-- 👐🏻 I'm looking for unlimited leaning opportunities.
+- 👐🏻 I'm looking for unlimited learning opportunities.
 - 🤝🏻 I am passionate about my work and always eager to connect with other experts.
 - 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtariq)
 - 👉🏻 [LeetCode Profile 👨🏻‍💻](https://leetcode.com/ahmedtm01/)
@@ -57,6 +57,7 @@
 - [AWS Certified: Solutions Architect Associate](https://www.credly.com/badges/4b089800-d7bf-43bf-a32a-0fa61ed66152/public_url)
 - [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/5fe51e64-80d2-4909-a20b-c21bc75c81df/public_url)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://learn.microsoft.com/api/credentials/share/en-us/ahmedtariq/11CB8A6C2AF23B3F?sharingId=1FC316791E36A456)
+- [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/ahmedtariq/BBC99E997A817846?sharingId=1FC316791E36A456)
 - [Multicloud Network Associate](https://www.credly.com/badges/59dbc819-c2b2-4186-816c-4f7a6dd046a3/public_url)
 - See all my Certifications here 👉🏻 [Credly](https://www.credly.com/users/ahmedtariq) & [Accredible](https://www.credential.net/profile/ahmedtariq1/wallet)
 <p align="left">
@@ -64,6 +65,7 @@
   <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="125" height="125">
 
 </p>
