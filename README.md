@@ -2,9 +2,7 @@
 
 ## I'm a Developer and Cloud Enthusiast 👨🏻‍💻 :cloud:
 
-<a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url" style="float:right; margin:0 0 8px 20px;">
-  <img src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" width="120" height="120" />
-</a>
+<img align="right" src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" width="120" height="120" />
 
 - 🌱 I’m expanding my knowledge in Cloud and DevOps.
 - 🤝🏻 I’m looking to collaborate with other content creators and developers.
