@@ -1,6 +1,9 @@
 # Hi, I'm Ahmed 👋🏻
 
-## I'm a Developer and Cloud Enthusiast 👨🏻‍💻 :cloud:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h2>I'm a Developer and Cloud Enthusiast 👨🏻‍💻 :cloud:</h2>
+  <a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url"><img src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" width="50" height="50"></a>
+</div>
 - 🌱 I’m expanding my knowledge in Cloud and DevOps.
 - 🤝🏻 I’m looking to collaborate with other content creators and developers.
 - 🥅 2024 Goals: Contribute to Open Source projects and to learn new technologies.
@@ -11,7 +14,7 @@
 
 ## Cloud Learning Profiles 👨🏻‍💻
 - 👉🏻 [Qwiklabs-Google Cloud Learning Profile :cloud:](https://www.qwiklabs.com/public_profiles/82960446-7f84-409b-a397-d5c3c18c288d)
-- 👉🏻 [Microsoft Learn-Microsoft Azure Learing Profile :cloud:](https://docs.microsoft.com/en-us/users/ahmedtariq/)
+- 👉🏻 [Microsoft Learn-Microsoft Azure Learing Profile :cloud:](https://learn.microsoft.com/en-us/users/ahmedtariq/credentials)
 
 
 <h2>Tech Stack 💻</h2>
