@@ -7,10 +7,9 @@
 </a>
 
 - 🌱 I’m expanding my knowledge in Cloud, DevOps and AI.
-- 🤝🏻 I’m looking to collaborate with other content creators and developers.
+- 👮🏻‍♀️ I serve as an AWS Cloud Club Captain, fostering community learning and cloud adoption.
 - 🥅 2025 Goals: Building Resilient AI Solutions with DevSecOps & Cloud Automation.
-- 👐🏻 I'm looking for unlimited learning opportunities.
-- 🤝🏻 I am passionate about my work and always eager to connect with other experts.
+- 🤝🏻 I'm passionate about my work and always eager to connect with other experts.
 - 👉🏻 <a href="https://g.dev/ahmedtariq" target="_blank" rel="noreferrer">Google Developer Profile 👨🏻‍💻</a>
 - 👉🏻 <a href="https://leetcode.com/ahmedtm01/" target="_blank" rel="noreferrer">LeetCode Profile 👨🏻‍💻</a>
 
