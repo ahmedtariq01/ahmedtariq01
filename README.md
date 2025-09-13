@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td width="80%" valign="top">
+    <td width="90%" valign="top">
       <ul>
         <li>🌱 I’m expanding my knowledge in Cloud and DevOps.</li>
         <li>🤝🏻 I’m looking to collaborate with other content creators and developers.</li>
