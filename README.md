@@ -2,27 +2,19 @@
 
 ## I'm a Developer and Cloud Enthusiast 👨🏻‍💻 :cloud:
 
-<table>
-  <tr>
-    <td width="90%" valign="top">
-      <ul>
-        <li>🌱 I’m expanding my knowledge in Cloud and DevOps.</li>
-        <li>🤝🏻 I’m looking to collaborate with other content creators and developers.</li>
-        <li>🥅 2024 Goals: Contribute to Open Source projects and to learn new technologies.</li>
-        <li>👐🏻 I'm looking for unlimited learning opportunities.</li>
-        <li>🤝🏻 I am passionate about my work and always eager to connect with other experts.</li>
-        <li>👉🏻 <a href="https://g.dev/ahmedtariq">Google Developer Profile 👨🏻‍💻</a></li>
-        <li>👉🏻 <a href="https://leetcode.com/ahmedtm01/">LeetCode Profile 👨🏻‍💻</a></li>
-      </ul>
-    </td>
-    <td width="20%" align="center" valign="middle">
-      <a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url">
-        <img src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" width="110" height="110" />
-      </a>
-      <br/>
-    </td>
-  </tr>
-</table>
+<a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url" style="float:right; margin:0 0 8px 20px;">
+  <img src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" width="120" height="120" />
+</a>
+
+- 🌱 I’m expanding my knowledge in Cloud and DevOps.
+- 🤝🏻 I’m looking to collaborate with other content creators and developers.
+- 🥅 2024 Goals: Contribute to Open Source projects and to learn new technologies.
+- 👐🏻 I'm looking for unlimited learning opportunities.
+- 🤝🏻 I am passionate about my work and always eager to connect with other experts.
+- 👉🏻 [Google Developer Profile 👨🏻‍💻](https://g.dev/ahmedtariq)
+- 👉🏻 [LeetCode Profile 👨🏻‍💻](https://leetcode.com/ahmedtm01/)
+
+<div style="clear:both;"></div>
 
 ## Cloud Learning Profiles 👨🏻‍💻
 - 👉🏻 [Qwiklabs-Google Cloud Learning Profile :cloud:](https://www.qwiklabs.com/public_profiles/82960446-7f84-409b-a397-d5c3c18c288d)
