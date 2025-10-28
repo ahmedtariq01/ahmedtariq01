@@ -85,9 +85,9 @@
 - <a href="https://www.credly.com/badges/25ce42a9-5686-4518-9817-dfbef843a2f6/public_url" target="_blank" rel="noreferrer">Google Project Management Certificate</a>
 
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="125" height="125">
-  <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" width="125" height="125">
+  <img src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/100511fc-a919-4c0c-b313-7f49b6d09ef6/image.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" width="125" height="125">
   <img src="https://images.credly.com/size/340x340/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" width="125" height="125">
