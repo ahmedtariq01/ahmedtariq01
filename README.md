@@ -8,7 +8,7 @@
 
 - 🌱 I’m expanding my knowledge in Cloud, DevOps and AI.
 - 👮🏻‍♀️ Leading as an AWS Cloud Club Captain, mentoring fellow cloud enthusiasts.
-- 🥅 2025 Goals: Building Resilient AI Solutions with DevSecOps & Cloud Automation.
+- 🥅 2026 Goals: Building Resilient AI Solutions with DevSecOps & Cloud Automation.
 - 🤝🏻 I'm passionate about my work and always eager to connect with other experts.
 - 👉🏻 <a href="https://g.dev/ahmedtariq" target="_blank" rel="noreferrer">Google Developer Profile 👨🏻‍💻</a>
 - 👉🏻 <a href="https://leetcode.com/ahmedtm01/" target="_blank" rel="noreferrer">LeetCode Profile 👨🏻‍💻</a>
