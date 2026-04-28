@@ -10,15 +10,17 @@ I design and automate production-ready cloud platforms for startups, SaaS teams,
 
 ## What I Work On
 
-- Cloud infrastructure engineering across Azure, AWS, and Google Cloud Platform
-- Infrastructure as Code using Terraform, Azure Bicep, ARM Templates, CloudFormation, and AWS CDK
-- CI/CD pipeline automation using Azure DevOps, GitHub Actions, Jenkins, AWS CodePipeline, and Cloud Build
-- Containerized deployments using Docker, Kubernetes, AKS, EKS, ECS, Azure Container Apps, and Helm
-- Monitoring and observability using Azure Monitor, Application Insights, AWS CloudWatch, Prometheus, Grafana, and ELK Stack
-- Cloud security, IAM, private networking, governance, Microsoft Defender for Cloud, AWS Inspector, and zero-trust architecture
-- AI infrastructure for LLM applications, Azure OpenAI, Azure AI Search, chatbot systems, and production AI workloads
+- Designing and operating production-grade cloud platforms across Azure, AWS, and GCP
+- Building Infrastructure-as-Code foundations that survive scale and compliance audits
+- Engineering deployment pipelines that accelerate delivery without sacrificing stability
+- Running container and orchestration platforms for high-availability, multi-tenant workloads
+- Standing up observability and incident-response systems for distributed services
+- Hardening cloud environments with identity, private networking, and zero-trust controls
+- Deploying AI and LLM infrastructure that meets latency, cost, and reliability targets
 
 ## Tech Stack 💻
+
+I help teams ship faster, run reliably, and stay secure on the cloud — built with the stack below.
 
 <div align="left">
 <img alt="Cloud DevOps Engineer" src="https://img.shields.io/badge/Cloud%20DevOps%20Engineer-1F2937?style=flat-square" height="28"/> <img alt="Azure DevOps Engineer" src="https://img.shields.io/badge/Azure%20DevOps%20Engineer-1F2937?style=flat-square" height="28"/> <img alt="AWS DevOps Engineer" src="https://img.shields.io/badge/AWS%20DevOps%20Engineer-1F2937?style=flat-square" height="28"/> <img alt="Site Reliability Engineering" src="https://img.shields.io/badge/Site%20Reliability%20Engineering-1F2937?style=flat-square" height="28"/> <img alt="Platform Engineering" src="https://img.shields.io/badge/Platform%20Engineering-1F2937?style=flat-square" height="28"/> <img alt="DevSecOps" src="https://img.shields.io/badge/DevSecOps-1F2937?style=flat-square" height="28"/> <img alt="Infrastructure as Code" src="https://img.shields.io/badge/Infrastructure%20as%20Code-1F2937?style=flat-square" height="28"/> <img alt="CI/CD Pipelines" src="https://img.shields.io/badge/CI%2FCD%20Pipelines-1F2937?style=flat-square" height="28"/> <img alt="Cloud Security" src="https://img.shields.io/badge/Cloud%20Security-1F2937?style=flat-square" height="28"/> <img alt="Observability" src="https://img.shields.io/badge/Observability-1F2937?style=flat-square" height="28"/> <img alt="AI Infrastructure" src="https://img.shields.io/badge/AI%20Infrastructure-1F2937?style=flat-square" height="28"/> <img alt="LLM Deployment" src="https://img.shields.io/badge/LLM%20Deployment-1F2937?style=flat-square" height="28"/> <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" height="28"/> <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="28"/> <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="28"/> <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="28"/> <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="28"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28"/> <img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="28"/> <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28"/> <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" height="28"/> <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" height="28"/> <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" height="28"/> <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="28"/> <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="28"/> <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" height="28"/> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="28"/> <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white" height="28"/> <img alt="Vertex AI" src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="28"/>
@@ -71,19 +73,6 @@ I design and automate production-ready cloud platforms for startups, SaaS teams,
 | [AWS DevOps Projects](https://github.com/ahmedtariq01/AWS_DevOps_Projects) | AWS DevOps, CI/CD | DevOps automation examples focused on deployment workflows, pipelines, and AWS services. |
 | [DevOps Projects](https://github.com/ahmedtariq01/DevOps_Projects) | Kubernetes, Terraform, CI/CD | Hands-on DevOps labs covering containers, orchestration, infrastructure automation, and deployment pipelines. |
 | [Cloud Architecture Diagrams](https://github.com/ahmedtariq01/Cloud_Application_Architecture_Diagrams) | Architecture, System Design | Reference cloud architecture diagrams for scalable, secure, and production-ready infrastructure. |
-
-## Professional Focus
-
-I work across cloud infrastructure, DevOps automation, platform engineering, and AI infrastructure. My practical focus is helping teams ship faster, reduce deployment risk, improve system reliability, and operate secure cloud-native environments.
-
-Key outcomes I care about:
-
-- Faster and safer software delivery
-- Repeatable infrastructure through Infrastructure as Code
-- Secure cloud networking and access control
-- Reliable observability and alerting
-- Cost-aware cloud architecture
-- Production-ready AI and chatbot infrastructure
 
 ## Profile Views
 
