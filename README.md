@@ -1,14 +1,12 @@
 # Ahmed Tariq
 
+<a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url" target="_blank" rel="noopener noreferrer">
+  <img align="right" hspace="50" src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" title="AWS Cloud Club Captain" width="150" height="150" />
+</a>
+
 Cloud DevOps Engineer specializing in Azure, AWS, GCP, Terraform, Kubernetes, CI/CD pipelines, cloud security, observability, and AI infrastructure.
 
 I design and automate production-ready cloud platforms for startups, SaaS teams, and engineering organizations — with a focus on scalable deployments, secure infrastructure, cost optimization, and reliable DevOps workflows.
-
-<p align="right">
-  <a href="https://www.credly.com/badges/f14805bb-431c-436e-9a2f-6260dd905a32/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.credly.com/size/340x340/images/54fdb971-fd75-4c35-88d3-a26abf11dfc8/image.png" alt="AWS Cloud Club Captain" title="AWS Cloud Club Captain" width="120" height="120" />
-  </a>
-</p>
 
 ## What I Work On
 
