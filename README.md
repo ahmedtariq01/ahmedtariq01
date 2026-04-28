@@ -87,7 +87,7 @@ Key outcomes I care about:
 
 ## Profile Views
 
-<h2 align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedtariq01&style=for-the-badge&color=263759&label=PROFILE+VIEWS" alt="Ahmed Tariq" /> <h2>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ahmedtariq01&style=for-the-badge&color=263759&label=PROFILE+VIEWS" alt="Profile views counter" /></p>
 
 <h2>GitHub Analytics ⚙️</h2>
 
