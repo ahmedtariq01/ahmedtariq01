@@ -82,7 +82,7 @@ I help teams ship faster, run reliably, and stay secure on the cloud, built with
 
 <p align="center">
   <a href="https://github.com/ahmedtariq01" target="_blank" rel="noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmedtariq01&theme=algolia&column=4&row=2&margin-w=10&margin-h=10&no-frame=true" alt="Ahmed Tariq's GitHub trophies"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedtariq01&show_icons=true&theme=algolia" alt="Ahmed Tariq's GitHub stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtariq01&layout=compact&langs_count=6&theme=algolia&hide=html,css,java,php,pug,hack" alt="Top languages"/>
   </a>
 </p>
