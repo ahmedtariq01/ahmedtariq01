@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=algolia
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=algolia&disable_animations=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           core_version: 2.1.5
@@ -44,7 +44,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=algolia&hide=html,css,java,php,pug,hack
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=algolia&hide=html,css,java,php,pug,hack&disable_animations=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           core_version: 2.1.5
