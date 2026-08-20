@@ -82,16 +82,13 @@ I help teams ship faster, run reliably, and stay secure on the cloud, built with
 
 <p align="center">
   <a href="https://github.com/ahmedtariq01" target="_blank" rel="noreferrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedtariq01&show_icons=true&theme=algolia" alt="Ahmed Tariq's GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtariq01&layout=compact&langs_count=6&theme=algolia&hide=html,css,java,php,pug,hack" alt="Top languages"/>
+    <img height="160" src="./profile/stats.svg" alt="Ahmed Tariq's GitHub stats" />
+    <img height="160" src="./profile/top-langs.svg" alt="Ahmed Tariq's top languages" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmedtariq01&theme=merko&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## Github Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/ahmedtariq01/ahmedtariq01/blob/main/github-metrics.svg" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank" rel="noreferrer">
+    <img src="./profile/streak.svg" alt="Ahmed Tariq's GitHub contribution streak" />
+  </a>
 </p>

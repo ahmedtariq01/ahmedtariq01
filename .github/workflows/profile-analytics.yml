@@ -1,0 +1,88 @@
+name: Update profile analytics
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/profile-analytics.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-analytics
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Generate static analytics cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+
+      - name: Prepare the output directory
+        run: mkdir -p profile
+
+      - name: Generate GitHub stats
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=algolia&disable_animations=true
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: 2.1.5
+          fail_on_error: true
+
+      - name: Generate top languages
+        uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=algolia&hide=html,css,java,php,pug,hack&disable_animations=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          core_version: 2.1.5
+          fail_on_error: true
+
+      - name: Generate contribution streak
+        uses: DenverCoder1/github-readme-streak-stats@51cfb8879073b4c016ce6286016de0b14d179077 # v1.7.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=merko&hide_border=true&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Reject empty or error cards
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          for card in profile/stats.svg profile/top-langs.svg profile/streak.svg; do
+            test -s "$card"
+            grep -qi '<svg' "$card"
+
+            if grep -Eqi 'Something went wrong|Failed to retrieve contributions|Could not fetch|Maximum retries exceeded' "$card"; then
+              echo "Refusing to publish an error card: $card" >&2
+              exit 1
+            fi
+          done
+
+      - name: Commit updated cards
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- profile/stats.svg profile/top-langs.svg profile/streak.svg
+
+          if git diff --cached --quiet; then
+            echo "Analytics cards are already current."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh profile analytics"
+          git push
