@@ -82,8 +82,8 @@ I help teams ship faster, run reliably, and stay secure on the cloud, built with
 
 <p align="center">
   <a href="https://github.com/ahmedtariq01" target="_blank" rel="noreferrer">
-    <img height="180" src="./profile/stats.svg" alt="Ahmed Tariq's GitHub stats" />
-    <img height="180" src="./profile/top-langs.svg" alt="Ahmed Tariq's top languages" />
+    <img height="165" src="./profile/stats.svg" alt="Ahmed Tariq's GitHub stats" />
+    <img height="165" src="./profile/top-langs.svg" alt="Ahmed Tariq's top languages" />
   </a>
 </p>
 
