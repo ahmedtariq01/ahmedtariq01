@@ -66,13 +66,38 @@ I help teams ship faster, run reliably, and stay secure on the cloud, built with
 
 ## Featured Work
 
+My [cloud and DevOps work samples](https://ahmed-tariq.me/work-samples/) include cloud architecture case studies, published articles, talks and podcasts.
+
 | Repository | Focus Area | Description |
 |---|---|---|
-| [Cloud & DevOps Learning Resources](https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources) | Multi-cloud, DevOps, Kubernetes | Curated notes, books, exam prep, and interview resources across AWS, Azure, GCP, Docker, Kubernetes, and DevOps. |
-| [AWS CDK Projects](https://github.com/ahmedtariq01/AWS_CDK_Projects) | AWS, Infrastructure as Code | AWS infrastructure projects using CDK, automation, and cloud-native deployment patterns. |
-| [AWS DevOps Projects](https://github.com/ahmedtariq01/AWS_DevOps_Projects) | AWS DevOps, CI/CD | DevOps automation examples focused on deployment workflows, pipelines, and AWS services. |
-| [DevOps Projects](https://github.com/ahmedtariq01/DevOps_Projects) | Kubernetes, Terraform, CI/CD | Hands-on DevOps labs covering containers, orchestration, infrastructure automation, and deployment pipelines. |
+| Cloud & DevOps Learning Resources | Multi-cloud, DevOps, Kubernetes | Curated notes, books, exam prep, and interview resources across AWS, Azure, GCP, Docker, Kubernetes, and DevOps. |
+| AWS CDK Projects | AWS, Infrastructure as Code | AWS infrastructure projects using CDK, automation, and cloud-native deployment patterns. |
+| [AWS DevOps Projects](https://github.com/ahmedtariq01/AWS_DevOps_Projects) | AWS DevOps, CI/CD | Fork of rumeysakdogan/AWS_DevOps_Projects with AWS DevOps learning projects covering deployment workflows, pipelines, and AWS services. |
+| DevOps Projects | Kubernetes, Terraform, CI/CD | Hands-on DevOps labs covering containers, orchestration, infrastructure automation, and deployment pipelines. |
 | [Cloud Architecture Diagrams](https://github.com/ahmedtariq01/Cloud_Application_Architecture_Diagrams) | Architecture, System Design | Reference cloud architecture diagrams for scalable, secure, and production-ready infrastructure. |
+
+## Published Articles
+
+Technical writing on cloud operations, Kubernetes, delivery pipelines and application security.
+
+- **The PostgreSQL RLS Policy Existed, But The Table Owner Still Saw Every Row**. Techstrong IT, 7 Oct 2026.
+- **Why One of Two Kubernetes Pods Missed a Secret That Already Existed**. Cloud Native Now, 6 Oct 2026.
+- **How a RabbitMQ TLS mismatch burned one CPU core before AMQP negotiation**. HackerNoon, 27 Sep 2026.
+- **Drizzle 0.30.4 Missed Six PostgreSQL Parent Tables and Stalled the CI Pipeline**. HackerNoon, 27 Sep 2026.
+- **Two Identical AKS Clusters, Two Different Elastic Metadata Bugs**. HackerNoon, 27 Sep 2026.
+- **Why Old Azure DevOps Releases Survive a Pipeline Cutover**. DevOps.com, 25 Sep 2026.
+- **A Missing Binary Turned a Kubernetes Liveness Probe Into a Restart Loop**. Cloud Native Now, 25 Sep 2026.
+- **One Outlook edit became two Microsoft Graph events with no shared ID**. Microsoft 365 & Power Platform Community, 17 Sep 2026.
+- **How I Consolidated Duplicate Delivery Pipelines With Parameters and Build Tags**. DevOps.com, 16 Sep 2026.
+
+## Talks and Podcasts
+
+Recorded conference talks and podcast guest appearances.
+
+- **Season 5, Episode 33: Claude Opus 5.5, Tokenomics on AWS, and Sovereign Cloud Models**. Podcast, LogiCast AWS News, 29 Sep 2026.
+- **Don’t Give the Agent a Shell: Tool and Identity Boundaries for AI Agents in Cloud Operations**. Talk, Conf42 AI Agents, 24 Sep 2026.
+- **Schema Migrations in CI/CD: When AI Helps, When It Hurts, and How to Tell the Difference**. Talk, Conf42 Database DevOps, 4 Jun 2026.
+- **Intro to DevOps: Bridging Development and Operations for Faster Delivery**. Podcast, Tech GupShup with Fatima, 12 Oct 2024.
 
 ## Profile Views
 
