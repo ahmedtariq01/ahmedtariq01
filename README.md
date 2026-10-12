@@ -80,24 +80,24 @@ My [cloud and DevOps work samples](https://ahmed-tariq.me/work-samples/) include
 
 Technical writing on cloud operations, Kubernetes, delivery pipelines and application security.
 
-- **[The PostgreSQL RLS Policy Existed, But The Table Owner Still Saw Every Row](https://techstrong.it/features/the-postgresql-rls-policy-existed-but-the-table-owner-still-saw-every-row/)**. Techstrong IT.
-- **[Why One of Two Kubernetes Pods Missed a Secret That Already Existed](https://cloudnativenow.com/contributed-content/why-one-of-two-kubernetes-pods-missed-a-secret-that-already-existed/)**. Cloud Native Now.
-- **[How a RabbitMQ TLS mismatch burned one CPU core before AMQP negotiation](https://hackernoon.com/how-a-rabbitmq-tls-mismatch-burned-one-cpu-core-before-amqp-negotiation)**. HackerNoon.
-- **[Drizzle 0.30.4 Missed Six PostgreSQL Parent Tables and Stalled the CI Pipeline](https://hackernoon.com/drizzle-0304-missed-six-postgresql-parent-tables-and-stalled-the-ci-pipeline)**. HackerNoon.
-- **[Two Identical AKS Clusters, Two Different Elastic Metadata Bugs](https://hackernoon.com/two-identical-aks-clusters-two-different-elastic-metadata-bugs)**. HackerNoon.
-- **[Why Old Azure DevOps Releases Survive a Pipeline Cutover](https://devops.com/why-old-azure-devops-releases-survive-a-pipeline-cutover/)**. DevOps.com.
-- **[A Missing Binary Turned a Kubernetes Liveness Probe Into a Restart Loop](https://cloudnativenow.com/contributed-content/a-missing-binary-turned-a-kubernetes-liveness-probe-into-a-restart-loop/)**. Cloud Native Now.
-- **[One Outlook edit became two Microsoft Graph events with no shared ID](https://pnp.github.io/blog/post/one-outlook-edit-became-two-microsoft-graph-events/)**. Microsoft 365 & Power Platform Community.
-- **[How I Consolidated Duplicate Delivery Pipelines With Parameters and Build Tags](https://devops.com/how-i-consolidated-duplicate-delivery-pipelines-with-parameters-and-build-tags/)**. DevOps.com.
+- **[The PostgreSQL RLS Policy Existed, But The Table Owner Still Saw Every Row](https://techstrong.it/features/the-postgresql-rls-policy-existed-but-the-table-owner-still-saw-every-row/)**
+- **[Why One of Two Kubernetes Pods Missed a Secret That Already Existed](https://cloudnativenow.com/contributed-content/why-one-of-two-kubernetes-pods-missed-a-secret-that-already-existed/)**
+- **[How a RabbitMQ TLS mismatch burned one CPU core before AMQP negotiation](https://hackernoon.com/how-a-rabbitmq-tls-mismatch-burned-one-cpu-core-before-amqp-negotiation)**
+- **[Drizzle 0.30.4 Missed Six PostgreSQL Parent Tables and Stalled the CI Pipeline](https://hackernoon.com/drizzle-0304-missed-six-postgresql-parent-tables-and-stalled-the-ci-pipeline)**
+- **[Two Identical AKS Clusters, Two Different Elastic Metadata Bugs](https://hackernoon.com/two-identical-aks-clusters-two-different-elastic-metadata-bugs)**
+- **[Why Old Azure DevOps Releases Survive a Pipeline Cutover](https://devops.com/why-old-azure-devops-releases-survive-a-pipeline-cutover/)**
+- **[A Missing Binary Turned a Kubernetes Liveness Probe Into a Restart Loop](https://cloudnativenow.com/contributed-content/a-missing-binary-turned-a-kubernetes-liveness-probe-into-a-restart-loop/)**
+- **[One Outlook edit became two Microsoft Graph events with no shared ID](https://pnp.github.io/blog/post/one-outlook-edit-became-two-microsoft-graph-events/)**
+- **[How I Consolidated Duplicate Delivery Pipelines With Parameters and Build Tags](https://devops.com/how-i-consolidated-duplicate-delivery-pipelines-with-parameters-and-build-tags/)**
 
 ## Talks and Podcasts
 
 Recorded conference talks and podcast guest appearances.
 
-- **[Season 5, Episode 33: Claude Opus 5.5, Tokenomics on AWS, and Sovereign Cloud Models](https://logicastvideo.podbean.com/e/s5-ep-33/)**. Podcast, LogiCast AWS News.
-- **[Don’t Give the Agent a Shell: Tool and Identity Boundaries for AI Agents in Cloud Operations](https://www.conf42.com/AI_Agents_2026_Ahmed_Tariq_identity_permissions_cloud)**. Talk, Conf42 AI Agents.
-- **[Schema Migrations in CI/CD: When AI Helps, When It Hurts, and How to Tell the Difference](https://www.conf42.com/Database_DevOps_2026_Ahmed_Tariq_postgres_mysql_scaling)**. Talk, Conf42 Database DevOps.
-- **[Intro to DevOps: Bridging Development and Operations for Faster Delivery](https://www.youtube.com/watch?v=64LoMWFzRs4)**. Podcast, Tech GupShup with Fatima.
+- **[Season 5, Episode 33: Claude Opus 5.5, Tokenomics on AWS, and Sovereign Cloud Models](https://logicastvideo.podbean.com/e/s5-ep-33/)**
+- **[Don’t Give the Agent a Shell: Tool and Identity Boundaries for AI Agents in Cloud Operations](https://www.conf42.com/AI_Agents_2026_Ahmed_Tariq_identity_permissions_cloud)**
+- **[Schema Migrations in CI/CD: When AI Helps, When It Hurts, and How to Tell the Difference](https://www.conf42.com/Database_DevOps_2026_Ahmed_Tariq_postgres_mysql_scaling)**
+- **[Intro to DevOps: Bridging Development and Operations for Faster Delivery](https://www.youtube.com/watch?v=64LoMWFzRs4)**
 
 ## Profile Views
 
