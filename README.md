@@ -80,6 +80,7 @@ My [cloud and DevOps work samples](https://ahmed-tariq.me/work-samples/) include
 
 Technical writing on cloud operations, Kubernetes, delivery pipelines and application security.
 
+- **[How to Diagnose vite: not found After npm ci in a Container Build](https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/)**
 - **[The PostgreSQL RLS Policy Existed, But The Table Owner Still Saw Every Row](https://techstrong.it/features/the-postgresql-rls-policy-existed-but-the-table-owner-still-saw-every-row/)**
 - **[Why One of Two Kubernetes Pods Missed a Secret That Already Existed](https://cloudnativenow.com/contributed-content/why-one-of-two-kubernetes-pods-missed-a-secret-that-already-existed/)**
 - **[How a RabbitMQ TLS mismatch burned one CPU core before AMQP negotiation](https://hackernoon.com/how-a-rabbitmq-tls-mismatch-burned-one-cpu-core-before-amqp-negotiation)**
