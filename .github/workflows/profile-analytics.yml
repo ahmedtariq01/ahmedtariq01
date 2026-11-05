@@ -51,7 +51,7 @@ jobs:
           fail_on_error: true
 
       - name: Generate contribution streak
-        uses: DenverCoder1/github-readme-streak-stats@51cfb8879073b4c016ce6286016de0b14d179077 # v1.7.0
+        uses: DenverCoder1/github-readme-streak-stats@adbd07609bb771d3510a15ee2f3b31d5fbe5201d # v1.8.1
         with:
           options: user=${{ github.repository_owner }}&theme=merko&hide_border=true&disable_animations=true
           path: profile/streak.svg
