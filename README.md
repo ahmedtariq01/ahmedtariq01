@@ -80,6 +80,7 @@ My [cloud and DevOps work samples](https://ahmed-tariq.me/work-samples/) include
 
 Technical writing on cloud operations, Kubernetes, delivery pipelines and application security.
 
+- **[A Non-Expiring AKS Deployment Token Could Read Secrets Across Three Namespaces](https://dzone.com/articles/secure-kubernetes-secrets)**
 - **[How to Diagnose vite: not found After npm ci in a Container Build](https://www.freecodecamp.org/news/diagnose-vite-not-found-npm-ci-container-build/)**
 - **[The PostgreSQL RLS Policy Existed, But The Table Owner Still Saw Every Row](https://techstrong.it/features/the-postgresql-rls-policy-existed-but-the-table-owner-still-saw-every-row/)**
 - **[Why One of Two Kubernetes Pods Missed a Secret That Already Existed](https://cloudnativenow.com/contributed-content/why-one-of-two-kubernetes-pods-missed-a-secret-that-already-existed/)**
@@ -91,10 +92,17 @@ Technical writing on cloud operations, Kubernetes, delivery pipelines and applic
 - **[One Outlook edit became two Microsoft Graph events with no shared ID](https://pnp.github.io/blog/post/one-outlook-edit-became-two-microsoft-graph-events/)**
 - **[How I Consolidated Duplicate Delivery Pipelines With Parameters and Build Tags](https://devops.com/how-i-consolidated-duplicate-delivery-pipelines-with-parameters-and-build-tags/)**
 
+## Research
+
+- **[Routing Beyond Task Categories: A Cost-Aware LAB-Bench Study](https://arxiv.org/abs/2611.20732)** (preprint). [Reproduction archive](https://doi.org/10.5281/zenodo.24220501)
+- **[What makes a boundary gate look?](https://apartresearch.com/sprints/projects/a-gate-that-isnt-told-what-to-look-for-doesnt-look-hbvfq6v5gt)** (sprint report)
+- **[Converged Prices Without Communication: Evidence Limits of Public Collusion Screens in LLM Auctions](https://apartresearch.com/sprints/projects/converged-prices-without-communication-evidence-limits-of-public-collusion-screens-in-llm-auctions-8qyd)** (sprint report)
+
 ## Talks and Podcasts
 
-Recorded conference talks and podcast guest appearances.
+Conference talks and podcast guest appearances.
 
+- **[When One Outlook Edit Becomes Two Microsoft Graph Events: Making Calendar Automations Reliable](https://microsoft365live2026.sessionize.com/session/1332551)** (session details)
 - **[Season 5, Episode 33: Claude Opus 5.5, Tokenomics on AWS, and Sovereign Cloud Models](https://logicastvideo.podbean.com/e/s5-ep-33/)**
 - **[Don’t Give the Agent a Shell: Tool and Identity Boundaries for AI Agents in Cloud Operations](https://www.conf42.com/AI_Agents_2026_Ahmed_Tariq_identity_permissions_cloud)**
 - **[Schema Migrations in CI/CD: When AI Helps, When It Hurts, and How to Tell the Difference](https://www.conf42.com/Database_DevOps_2026_Ahmed_Tariq_postgres_mysql_scaling)**
